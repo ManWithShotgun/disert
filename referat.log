@@ -1,0 +1,1559 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  3 JUN 2019 09:44
+entering extended mode
+**./referat.tex
+(referat.tex
+LaTeX2e <2018-12-01>
+(styles/report.cls
+
+LaTeX Warning: You have requested document class `styles/report',
+               but the document class provides `report'.
+
+Document Class: report 2001/04/21 v1.4e Standard LaTeX document class
+("D:\Soft\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/t2\mathtext.sty
+Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 119.
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("D:\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("D:\Soft\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+)
+\symT2Aletters=\mathgroup4
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("D:\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("D:\Soft\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("D:\Soft\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/05/04 3.31 The Babel package
+
+("D:\Soft\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("D:\Soft\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+
+("D:\Soft\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count91
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-russian\russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+)) (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/textcase\textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+\@input{styles/preable.aux}
+\openout2 = `styles/preable.aux'.
+
+(styles/preable.tex ("D:\Soft\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("D:\Soft\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count94
+Package hyperref Info: Option `unicode' set `true' on input line 3475.
+
+("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count95
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count96
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
+
+("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (styles/axodraw.sty
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/epsf\epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen110
+\epsfframethickness=\dimen111
+\epsfrsize=\dimen112
+\epsftmp=\dimen113
+\epsftsize=\dimen114
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
+\pspoints=\dimen117
+) ("D:\Soft\MiKTeX 2.9\tex/generic/dvips\colordvi.sty")
+("D:\Soft\MiKTeX 2.9\tex/generic/dvips\rotate.tex"
+\rotdimen=\dimen118
+))
+("D:\Soft\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(styles/caption-disser.sty
+
+LaTeX Warning: You have requested package `styles/caption-disser',
+               but the package provides `caption'.
+
+Package: caption 1995/04/05 v1.4b caption package (AS)
+\captionmargin=\skip44
+\as@captionbox=\box27
+\as@captionwidth=\skip45
+) ("D:\Soft\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 147.
+
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics-def\dvips.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+("D:\Soft\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))) (referat.aux
+(src/title_referat.aux))
+\openout1 = `referat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen119
+\scratchbox=\box30
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen120
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks23
+) ("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supp
+orted.
+
+)
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 13.
+ ("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+ (referat.out)
+(referat.out)
+\@outlinefile=\write3
+\openout3 = `referat.out'.
+
+\openout2 = `src/title_referat.aux'.
+
+ (src/title_referat.tex
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 15.
+
+("D:\Soft\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+
+Non-PDF special ignored!
+<special> background White
+Non-PDF special ignored!
+<special> color Black
+Non-PDF special ignored!
+<special> ! /ed{exch def}def /gs{gsave dup scale}def /gsw{gs /width ed widt...
+Non-PDF special ignored!
+<special> ! /arrowdown{ /nwidth { width 1 add } def newpath 0 nwidth 1.5 mu...
+Non-PDF special ignored!
+<special> ! /arrowup{ /nwidth { width 1 add } def newpath 0 nwidth 1.5 mul ...
+Non-PDF special ignored!
+<special> ! /arrowright{ /nwidth { width 1 add } def newpath nwidth 1.5 mul...
+Non-PDF special ignored!
+<special> ! /gluon{ gsw /num ed /ampi ed /dy ed /dx ed p1 /dy dy y1 sub def...
+Non-PDF special ignored!
+<special> ! /photon{ gsw /num ed /ampi ed p2 p1 /dy y2 y1 sub def /dx x2 x1...
+Non-PDF special ignored!
+<special> ! /zigzag{ gsw /num ed /ampi ed p2 p1 /dy y2 y1 sub def /dx x2 x1...
+Non-PDF special ignored!
+<special> ! /photonarc{ gsw /num ed /ampli ed /arcend ed /arcstart ed /radi...
+Non-PDF special ignored!
+<special> ! /gluearc{ gsw /num ed /ampi ed /arcend ed /arcstart ed /radius ...
+Non-PDF special ignored!
+<special> ! /arrowarc{ gsw /arcend ed /arcstart ed /radius ed translate new...
+Non-PDF special ignored!
+<special> ! /longarrowarc{ gsw /arcend ed /arcstart ed /radius ed translate...
+Non-PDF special ignored!
+<special> ! /dasharrowarc{ gsw /dsize ed /arcend1 ed /arcstart1 ed /radius ...
+Non-PDF special ignored!
+<special> ! /arrowarcn{ gsw /arcend ed /arcstart ed /radius ed translate ne...
+Non-PDF special ignored!
+<special> ! /longarrowarcn{ gsw /arcend ed /arcstart ed /radius ed translat...
+Non-PDF special ignored!
+<special> ! /dasharrowarcn{ gsw /dsize ed /arcend1 ed /arcstart1 ed /radius...
+Non-PDF special ignored!
+<special> ! /arrowline{ gsw p2 p1 /dx x2 x1 sub def /dy y2 y1 sub def /dr d...
+Non-PDF special ignored!
+<special> ! /longarrow{ gsw p2 p1 /dx x2 x1 sub def /dy y2 y1 sub def /dr d...
+Non-PDF special ignored!
+<special> ! /dasharrowline{ gsw /dsize ed p2 p1 /dx x2 x1 sub def /dy y2 y1...
+Non-PDF special ignored!
+<special> ! /line{ gsw p2 p1 newpath x1 y1 moveto x2 y2 lineto stroke grest...
+Non-PDF special ignored!
+<special> ! /dashline{ gsw /dsize ed p2 p1 /r y2 y1 sub dup mul x2 x1 sub d...
+Non-PDF special ignored!
+<special> ! /carc{ gsw /arcend ed /arcstart ed /radius ed translate newpath...
+Non-PDF special ignored!
+<special> ! /dashcarc{ gsw /dsize ed /arcend ed /arcstart ed /radius ed tra...
+Non-PDF special ignored!
+<special> ! /vertex{ gs /dotsize ed translate newpath 0 0 dotsize 0 360 arc...
+Non-PDF special ignored!
+<special> ! /bcirc{ gsw /radius ed translate gsave 1 setgray newpath 0 0 ra...
+Non-PDF special ignored!
+<special> ! /gcirc{ gsw /gcolor ed /radius ed translate 1 setgray newpath 0...
+Non-PDF special ignored!
+<special> ! /ccirc1{ gsw /radius ed translate newpath 0 0 radius 0 360 arc ...
+Non-PDF special ignored!
+<special> ! /ccirc2{ gsw /radius ed translate newpath 0 0 radius 0 360 arc ...
+Non-PDF special ignored!
+<special> ! /box{ gsw p2 p1 abox stroke grestore } def 
+Non-PDF special ignored!
+<special> ! /bbox{ gsw p2 p1 gsave 1 setgray abox fill grestore abox stroke...
+Non-PDF special ignored!
+<special> ! /gbox{ gsw /gcolor ed p2 p1 1 setgray abox fill gcolor setgray ...
+Non-PDF special ignored!
+<special> ! /cbox1{ gsw p2 p1 abox fill grestore } def 
+Non-PDF special ignored!
+<special> ! /cbox2{ gsw p2 p1 abox stroke grestore } def 
+Non-PDF special ignored!
+<special> ! /triangle{ gsw p3 p2 p1 atriangle stroke grestore } def 
+Non-PDF special ignored!
+<special> ! /btriangle{ gsw p3 p2 p1 gsave 1 setgray atriangle fill grestor...
+Non-PDF special ignored!
+<special> ! /gbox{ gsw /gcolor ed p3 p2 p1 1 setgray atriangle fill gcolor ...
+Non-PDF special ignored!
+<special> ! /ctriangle1{ gsw p3 p2 p1 atriangle fill grestore } def 
+Non-PDF special ignored!
+<special> ! /ctriangle2{ gsw p3 p2 p1 atriangle stroke grestore } def 
+Non-PDF special ignored!
+<special> ! /btext{ gsw /fsize ed /thetext ed translate /hsize thetext stri...
+Non-PDF special ignored!
+<special> ! /b2text{ gsw /fsize ed /text2 ed /text1 ed translate /hsize1 te...
+Non-PDF special ignored!
+<special> ! /gtext{ gsw /fsize ed /thetext ed /graysc ed translate /hsize t...
+Non-PDF special ignored!
+<special> ! /ctext1{ gsw /fsize ed /thetext ed translate /hsize thetext str...
+Non-PDF special ignored!
+<special> ! /ctext2{ gsw /fsize ed /thetext ed translate /hsize thetext str...
+Non-PDF special ignored!
+<special> ! /g2text{ gsw /fsize ed /text2 ed /text1 ed /graysc ed translate...
+Non-PDF special ignored!
+<special> ! /c2text1{ gsw /fsize ed /text2 ed /text1 ed translate /hsize1 t...
+Non-PDF special ignored!
+<special> ! /c2text2{ gsw /fsize ed /text2 ed /text1 ed translate /hsize1 t...
+Non-PDF special ignored!
+<special> ! /ptext{ gs /text ed /fsize ed /mode ed 3 1 roll translate rotat...
+Non-PDF special ignored!
+<special> ! /goval{ gsw /gcolor ed /x1 ed /x2 ed /radius ed translate x1 ro...
+Non-PDF special ignored!
+<special> ! /coval1{ gsw /x1 ed /x2 ed /radius ed translate x1 rotate x2 ra...
+Non-PDF special ignored!
+<special> ! /coval2{ gsw /x1 ed /x2 ed /radius ed translate x1 rotate x2 ra...
+Non-PDF special ignored!
+<special> ! /oval{ gsw /x1 ed /x2 ed /radius ed translate x1 rotate x2 radi...
+Non-PDF special ignored!
+<special> ! /docurve{ x1 2 mul x2 add 3 div y1 y0 sub x1 x0 sub div x2 x0 s...
+Non-PDF special ignored!
+<special> ! /makecurve{ gsw /points ed /ss points length 2 idiv 2 mul def n...
+Non-PDF special ignored!
+<special> ! /makedashcurve{ gsw /dsize ed /points ed /ss points length 2 id...
+Non-PDF special ignored!
+<special> ! /pathlength{ flattenpath /dist 0 def { /yfirst ed /xfirst ed /y...
+Non-PDF special ignored!
+<special> ! /centerdash{ /pathlen pathlength def /jj pathlen dsize div 2.0 ...
+Non-PDF special ignored!
+<special> ! /logaxis{ gsw /offset ed /hashsize ed /nlogs ed p2 p1 x1 y1 tra...
+Non-PDF special ignored!
+<special> ! /linaxis{ gsw /offset ed /hashsize ed /perdec ed /numdec ed p2 ...
+
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (referat.toc)
+\tf@toc=\write4
+\openout4 = `referat.toc'.
+
+ [2
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 1.
+(src/1-1-linux.tex
+Underfull \hbox (badness 4660) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/14.4 Операционная си-сте-ма (ОС)  ком-плекс вза-и-мо-свя-зан-ны
+х про-
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 5--6
+\T2A/cmr/m/n/14.4 грамм,предназначенных для управ-ле-ния ре-сур-са-ми вы-чис-ли
+-тель-но-го
+ []
+
+[3
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [4
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 4995) in paragraph at lines 13--14
+[]\T2A/cmr/m/n/14.4 Облегчение про-цес-сов экс-плу-а-та-ции ап-па-рат-ных и про
+-грамм-ных
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 13--14
+\T2A/cmr/m/n/14.4 вос-ста-нов-ле-ния по-след-ней ра-бо-то-спо-соб-ной кон-фи-гу
+-ра-ции; - сред-ства
+ []
+
+[5
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [6
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [7
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 1043) in paragraph at lines 31--32
+\T2A/cmr/m/n/14.4 опе-ра-ци-он-ной си-сте-мы до-ступ-ны про-грам-ми-сту в ви-де
+ на-бо-ра функ-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 31--32
+\T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 Application Programming Interface\T2A/cmr
+/m/n/14.4 , \T2A/cmr/m/it/14.4 API\T2A/cmr/m/n/14.4 ). При-ло-же-ния об-ра-ща-ю
+т-ся к
+ []
+
+[8
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/1-2-linux.tex
+<figures/LAMP_software_bundle.png, id=128, 436.63126pt x 245.91875pt>
+File: figures/LAMP_software_bundle.png Graphic file (type png)
+<use figures/LAMP_software_bundle.png>
+Package pdftex.def Info: figures/LAMP_software_bundle.png  used on input line 1
+1.
+(pdftex.def)             Requested size: 469.47046pt x 264.41377pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [10
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.21 
+     
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/LAMP_software_bundle.png>] [11
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [12
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/1-3-linux.tex [13
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [14
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [15
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [16
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [17
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/1-4-linux.tex [18
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 1502) in paragraph at lines 24--26
+\T2A/cmr/m/n/14.4 ших \T2A/cmr/m/it/14.4 Mandrake \T2A/cmr/m/n/14.4 и \T2A/cmr/
+m/it/14.4 Conectiva\T2A/cmr/m/n/14.4 . \T2A/cmr/m/it/14.4 Slackware\T2A/cmr/m/n
+/14.4 . Один из ста-рей-ших дис-
+ []
+
+[19
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [20
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/1-5-linux.tex [21
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [22
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [23
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) [24
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+(src/2-1-Zprime.tex
+<figures/hep-sm.png, id=205, 436.63126pt x 323.2075pt>
+File: figures/hep-sm.png Graphic file (type png)
+<use figures/hep-sm.png>
+Package pdftex.def Info: figures/hep-sm.png  used on input line 10.
+(pdftex.def)             Requested size: 469.47046pt x 347.51526pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [26
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.21 
+     
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/hep-sm.png>]
+<figures/quirk-antiquirk.jpg, id=217, 423.5825pt x 271.0125pt>
+File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
+<use figures/quirk-antiquirk.jpg>
+Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
+(pdftex.def)             Requested size: 469.47046pt x 300.38493pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [28
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.10838 1.10838 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.10838 div 1 1.10838 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.43 
+     
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/quirk-antiquirk.jpg>]
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [29
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/2-2-Zprime.tex [30
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/2-3-Zprime.tex [31
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+[32
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [33
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 1127) in paragraph at lines 24--25
+[]\T2A/cmr/m/n/14.4 Процессы пар-но-го рож-де-ния за-ря-жен-ных $\OML/cmm/m/it/
+14.4 W[]$\T2A/cmr/m/n/14.4 -бозонов в ад-рон-ных
+ []
+
+[34
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 4872) in paragraph at lines 37--38
+[]\T2A/cmr/m/n/14.4 Из ана-ли-за экс-пе-ри-мен-таль-ных дан-ных по из-ме-ре-нию
+ про-цес-са
+ []
+
+[35
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 1565) in paragraph at lines 41--42
+[]\T2A/cmr/m/n/14.4 Возможности кол-лай-де-ра \T2A/cmr/m/it/14.4 LНС \T2A/cmr/m
+/n/14.4 по об-на-ру-же-нию эф-фек-тов $\OML/cmm/m/it/14.4 Z$$\OMS/cmsy/m/n/14.4
+  $$\OML/cmm/m/it/14.4 Z[]$\T2A/cmr/m/n/14.4 -
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 41--42
+\T2A/cmr/m/n/14.4 смешивания в про-цес-се рож-де-ния пар за-ря-жен-ных ка-либ-р
+о-воч-ных
+ []
+
+) [36
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] (src/conclusion.tex) [37
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] (src/thebib.tex
+Underfull \hbox (badness 4036) in paragraph at lines 10--14
+\T2A/cmr/m/n/14.4 па: http://technomag.bmstu.ru/doc/48639.html  Да-та до-сту-п
+а:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+[]\T2A/cmr/m/n/14.4 Linux-2017: са-мые пер-спек-тив-ные дис-три-бу-ти-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+\T2A/cmr/m/n/14.4 вы [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+[]\T2A/cmr/m/n/14.4 Н. В. Крас-ни-ков, В. А. Мат-ве-ев. По-иск но-вой фи-зи-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+\T2A/cmr/m/n/14.4 ки на LHC [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 42--47
+[]\T2A/cmr/m/n/14.4 Official documentation [Элек-трон-ный ре-сурс].  Ре-жим до
+-сту-
+ []
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+Underfull \hbox (badness 2351) in paragraph at lines 53--57
+[]\T2A/cmr/m/n/14.4 Слабое вза-и-мо-дей-ствие [Элек-трон-ный-ре-сурс].  Ре-жим
+ до-сту-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+\T2A/cmr/m/n/14.4 па: http://nuclphys.sinp.msu.ru/enc/e149.htm  Да-та до-сту-п
+а:
+ []
+
+[38
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+ [39
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+ (referat.aux (src/title_referat.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package rerunfilecheck Info: File `referat.out' has not changed.
+(rerunfilecheck)             Checksum: 8F9A92D0E8AC8D7B2FD1A967B78C2405;4012.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
+ )
+(\end occurred when \ifx on line 13 was incomplete) 
+Here is how much of TeX's memory you used:
+ 12968 strings out of 492895
+ 172746 string characters out of 3137659
+ 263901 words of memory out of 3000000
+ 16620 multiletter control sequences out of 15000+200000
+ 16123 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,7n,31p,3770b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\User\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\User\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Use
+r\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Us
+ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1
+440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm1440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:
+/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on referat.pdf (39 pages, 482757 bytes).
+PDF statistics:
+ 714 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+
