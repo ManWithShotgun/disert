@@ -13,7 +13,7 @@
 \begin{document}
 	
 \renewcommand\contentsname{СОДЕРЖАНИЕ}
-\renewcommand{\bibname}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
+\renewcommand{\bibname}{БИБЛИОГРАФИЧЕСКИЙ СПИСОК}
 \renewcommand\chaptername{ГЛАВА}
 \renewcommand\figurename{Рисунок}
 \renewcommand\tablename{Таблица}
@@ -24,8 +24,14 @@
 \pagestyle{plain} \pagenumbering{arabic} \setcounter{page}{2}
 \large \tableofcontents
 
-%\include{src/introduction}
+\newpage
+\chapter*{Перечень условных обозначений и сокращений}
+\addcontentsline{toc}{chapter}{Перечень условных обозначений и сокращений} % in Content
+\input{src/list-of-symbols}
 
+\include{src/introduction}
+
+\include{src/general-description}
 
 \chapter{Рождения $Z^\prime$ - бозонов в протон-протонных столкновениях с учетом эффектов $Z$ - $Z^\prime$ смешивания}
 \input{src/2-1-Zprime}
@@ -37,10 +43,9 @@
 \addcontentsline{toc}{chapter}{ЗАКЛЮЧЕНИЕ} % in Content
 \input{src/conclusion}
 
-% \chapter{Список использованных источников}
 \newpage
 \begin{thebibliography}{9999.}
-\addcontentsline{toc}{chapter}{Список использованных источников}
+\addcontentsline{toc}{chapter}{БИБЛИОГРАФИЧЕСКИЙ СПИСОК}
 \input{src/thebib.tex}
 
 %\bibitem[1-А]{A-1}  Tsytrinov,~A.V. Comparative analysis of the four
