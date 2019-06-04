@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  3 JUN 2019 09:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  4 JUN 2019 23:51
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -741,39 +741,63 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 1.
-(src/1-1-linux.tex
-Underfull \hbox (badness 4660) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 Операционная си-сте-ма (ОС)  ком-плекс вза-и-мо-свя-зан-ны
-х про-
- []
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 грамм,предназначенных для управ-ле-ния ре-сур-са-ми вы-чис-ли
--тель-но-го
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+(src/2-1-Zprime.tex
+<figures/hep-sm.png, id=51, 436.63126pt x 323.2075pt>
+File: figures/hep-sm.png Graphic file (type png)
+<use figures/hep-sm.png>
+Package pdftex.def Info: figures/hep-sm.png  used on input line 10.
+(pdftex.def)             Requested size: 469.47046pt x 347.51526pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3
 Non-PDF special ignored!
@@ -793,18 +817,31 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.21 
+     
+Non-PDF special ignored!
 <special> color pop
-]
-Underfull \hbox (badness 4995) in paragraph at lines 13--14
-[]\T2A/cmr/m/n/14.4 Облегчение про-цес-сов экс-плу-а-та-ции ап-па-рат-ных и про
--грамм-ных
- []
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/hep-sm.png>]
+<figures/quirk-antiquirk.jpg, id=63, 423.5825pt x 271.0125pt>
+File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
+<use figures/quirk-antiquirk.jpg>
+Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
+(pdftex.def)             Requested size: 469.47046pt x 300.38493pt.
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 вос-ста-нов-ле-ния по-след-ней ра-бо-то-спо-соб-ной кон-фи-гу
--ра-ции; - сред-ства
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5
 Non-PDF special ignored!
@@ -823,398 +860,10 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
-<special> color pop
-] [7
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-Underfull \hbox (badness 1043) in paragraph at lines 31--32
-\T2A/cmr/m/n/14.4 опе-ра-ци-он-ной си-сте-мы до-ступ-ны про-грам-ми-сту в ви-де
- на-бо-ра функ-
- []
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 31--32
-\T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 Application Programming Interface\T2A/cmr
-/m/n/14.4 , \T2A/cmr/m/it/14.4 API\T2A/cmr/m/n/14.4 ). При-ло-же-ния об-ра-ща-ю
-т-ся к
- []
-
-[8
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) (src/1-2-linux.tex
-<figures/LAMP_software_bundle.png, id=128, 436.63126pt x 245.91875pt>
-File: figures/LAMP_software_bundle.png Graphic file (type png)
-<use figures/LAMP_software_bundle.png>
-Package pdftex.def Info: figures/LAMP_software_bundle.png  used on input line 1
-1.
-(pdftex.def)             Requested size: 469.47046pt x 264.41377pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [10
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.21 
-     
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
- <./figures/LAMP_software_bundle.png>] [11
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [12
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) (src/1-3-linux.tex [13
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [14
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [15
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [16
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [17
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) (src/1-4-linux.tex [18
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-Underfull \hbox (badness 1502) in paragraph at lines 24--26
-\T2A/cmr/m/n/14.4 ших \T2A/cmr/m/it/14.4 Mandrake \T2A/cmr/m/n/14.4 и \T2A/cmr/
-m/it/14.4 Conectiva\T2A/cmr/m/n/14.4 . \T2A/cmr/m/it/14.4 Slackware\T2A/cmr/m/n
-/14.4 . Один из ста-рей-ших дис-
- []
-
-[19
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [20
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) (src/1-5-linux.tex [21
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [22
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [23
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) [24
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-(src/2-1-Zprime.tex
-<figures/hep-sm.png, id=205, 436.63126pt x 323.2075pt>
-File: figures/hep-sm.png Graphic file (type png)
-<use figures/hep-sm.png>
-Package pdftex.def Info: figures/hep-sm.png  used on input line 10.
-(pdftex.def)             Requested size: 469.47046pt x 347.51526pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [26
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.21 
-     
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
- <./figures/hep-sm.png>]
-<figures/quirk-antiquirk.jpg, id=217, 423.5825pt x 271.0125pt>
-File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
-<use figures/quirk-antiquirk.jpg>
-Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
-(pdftex.def)             Requested size: 469.47046pt x 300.38493pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[27
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [28
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.10838 1.10838 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.10838 div 1 1.10838 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1230,7 +879,7 @@ Non-PDF special ignored!
  <./figures/quirk-antiquirk.jpg>]
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [29
+) [7
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1239,15 +888,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/2-2-Zprime.tex [30
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
+]) (src/2-2-Zprime.tex [8
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1272,7 +913,15 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/2-3-Zprime.tex [31
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/2-3-Zprime.tex [9
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1298,7 +947,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-[32
+[10
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1307,7 +956,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [33
+] [11
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1326,7 +975,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 24--25
 14.4 W[]$\T2A/cmr/m/n/14.4 -бозонов в ад-рон-ных
  []
 
-[34
+[12
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1353,7 +1002,7 @@ Underfull \hbox (badness 4872) in paragraph at lines 37--38
  про-цес-са
  []
 
-[35
+[13
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1375,7 +1024,7 @@ Underfull \hbox (badness 4013) in paragraph at lines 41--42
 о-воч-ных
  []
 
-) [36
+) [14
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1384,7 +1033,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (src/conclusion.tex) [37
+] (src/conclusion.tex) [15
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1440,7 +1089,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
 а:
  []
 
-[38
+[16
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1491,8 +1140,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
- [39
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+ [17
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1522,38 +1171,37 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
  (referat.aux (src/title_referat.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `referat.out' has not changed.
-(rerunfilecheck)             Checksum: 8F9A92D0E8AC8D7B2FD1A967B78C2405;4012.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
+(rerunfilecheck)             Checksum: AF05E368C07642BB3A781DEB35AD52D4;2176.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 12968 strings out of 492895
- 172746 string characters out of 3137659
- 263901 words of memory out of 3000000
- 16620 multiletter control sequences out of 15000+200000
- 16123 words of font info for 42 fonts, out of 3000000 for 9000
+ 12911 strings out of 492895
+ 171788 string characters out of 3137659
+ 263899 words of memory out of 3000000
+ 16609 multiletter control sequences out of 15000+200000
+ 15253 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,7n,31p,3770b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,7n,31p,3192b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\User\AppDa
+l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\User\AppDa
 ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Use
-r\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Us
-ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1
-440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\larm1440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:
-/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on referat.pdf (39 pages, 482757 bytes).
+r\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Us
+ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk>
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1
+440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Soft/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on referat.pdf (17 pages, 289411 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
