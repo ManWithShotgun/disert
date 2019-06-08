@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  5 JUN 2019 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  8 JUN 2019 11:54
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -715,7 +715,12 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (referat.toc)
+]) (referat.toc
+Underfull \hbox (badness 1577) in paragraph at lines 9--9
+ [] [][]\T2A/cmr/bx/n/14.4 –¿«–¿¡Œ“ ¿ œ–»-ÀŒ-∆≈-Õ»ﬂ ¬»–-“”-¿À‹-ÕŒ… –≈- 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `referat.toc'.
 
@@ -726,6 +731,22 @@ Non-PDF special ignored!
 <special> color pop
 
 
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -783,48 +804,113 @@ Non-PDF special ignored!
 <special> color pop
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 1.
+[6
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+(hyperref)                removing `math shift' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+(hyperref)                removing `superscript' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+(hyperref)                removing `\prime' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 36.
+(hyperref)                removing `math shift' on input line 39.
+
+[7
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
+[8
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
+[9
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 36.
+(hyperref)                removing `superscript' on input line 48.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 36.
+(hyperref)                removing `\prime' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
 
 (src/2-1-Zprime.tex
-<figures/hep-sm.png, id=83, 436.63126pt x 323.2075pt>
+<figures/hep-sm.png, id=144, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 10.
@@ -839,18 +925,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6
+[10
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 
-
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [7
+] [11
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -861,7 +946,7 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -875,7 +960,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/hep-sm.png>]
-<figures/quirk-antiquirk.jpg, id=96, 423.5825pt x 271.0125pt>
+<figures/quirk-antiquirk.jpg, id=156, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
 Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
@@ -884,7 +969,7 @@ Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8
+[12
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -893,7 +978,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [9
+] [13
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -904,7 +989,7 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.10838 1.10838 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.10838 div 1 1.10838 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -920,7 +1005,7 @@ Non-PDF special ignored!
  <./figures/quirk-antiquirk.jpg>]
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [10
+) [14
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -929,15 +1014,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/2-2-Zprime.tex [11
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
+]) (src/2-2-Zprime.tex [15
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -962,7 +1039,15 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/2-3-Zprime.tex [12
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) (src/2-3-Zprime.tex [16
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -988,7 +1073,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-[13
+[17
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -997,7 +1082,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [14
+] [18
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1016,7 +1101,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 24--25
 14.4 W[]$\T2A/cmr/m/n/14.4 -·ÓÁÓÌÓ‚ ‚ ‡‰-ÓÌ-Ì˚ı
  []
 
-[15
+[19
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1043,7 +1128,7 @@ Underfull \hbox (badness 4872) in paragraph at lines 37--38
  ÔÓ-ˆÂÒ-Ò‡
  []
 
-[16
+[20
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1065,7 +1150,7 @@ Underfull \hbox (badness 4013) in paragraph at lines 41--42
 Ó-‚Ó˜-Ì˚ı
  []
 
-) [17
+) [21
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1074,7 +1159,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (src/conclusion.tex) [18
+] (src/conclusion.tex) [22
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1130,7 +1215,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
 ‡:
  []
 
-[19
+[23
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1180,7 +1265,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) [20
+]) [24
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1212,7 +1297,7 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/attachment-1.aux'.
 
- (src/attachment-1.tex) [21
+ (src/attachment-1.tex) [25
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1224,22 +1309,22 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (referat.aux (src/title_referat.aux) (src/introduction.aux)
 (src/general-description.aux) (src/attachment-1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `referat.out' has not changed.
-(rerunfilecheck)             Checksum: 94D8FDBD6A405816CE0EC701EE8D8293;3005.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+(rerunfilecheck)             Checksum: 28AA8D5E1AD20D04BE290FB07964FE25;6572.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 12950 strings out of 492895
- 172964 string characters out of 3137659
- 264919 words of memory out of 3000000
- 16616 multiletter control sequences out of 15000+200000
+ 12970 strings out of 492895
+ 173168 string characters out of 3137659
+ 265084 words of memory out of 3000000
+ 16624 multiletter control sequences out of 15000+200000
  15253 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,7n,31p,3192b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1254,9 +1339,9 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on referat.pdf (21 pages, 296909 bytes).
+Output written on referat.pdf (25 pages, 311034 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
