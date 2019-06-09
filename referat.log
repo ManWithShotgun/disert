@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  8 JUN 2019 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  10 JUN 2019 01:30
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -715,12 +715,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (referat.toc
-Underfull \hbox (badness 1577) in paragraph at lines 9--9
- [] [][]\T2A/cmr/bx/n/14.4 РАЗРАБОТКА ПРИ-ЛО-ЖЕ-НИЯ ВИР-ТУ-АЛЬ-НОЙ РЕ- 
- []
-
-)
+]) (referat.toc)
 \tf@toc=\write4
 \openout4 = `referat.toc'.
 
@@ -731,14 +726,6 @@ Non-PDF special ignored!
 <special> color pop
 
 
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -790,7 +777,13 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/general-description.aux'.
 
- (src/general-description.tex) [5
+ (src/general-description.tex
+Underfull \hbox (badness 2293) in paragraph at lines 10--14
+\T2A/cmr/m/n/14.4 зуль-та-тов ра-бо-ты бу-дут по-лу-че-ны огра-ни-че-ния на со-
+от-вет-ству-ю-щие
+ []
+
+[5
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -798,19 +791,65 @@ Non-PDF special ignored!
 
 
 
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) [6
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 1.
-[6
+(src/2-2-Zprime.tex [7
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 
 
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) [8
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -819,123 +858,76 @@ Non-PDF special ignored!
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 39.
+(hyperref)                removing `superscript' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 39.
+(hyperref)                removing `\prime' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
-[7
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 40.
+
+(src/2-1-Zprime.tex [9
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [10
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 ]
-\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
-[8
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
-[9
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 5.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 48.
-
-(src/2-1-Zprime.tex
-<figures/hep-sm.png, id=144, 436.63126pt x 323.2075pt>
+<figures/hep-sm.png, id=139, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
-Package pdftex.def Info: figures/hep-sm.png  used on input line 10.
+Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
 (pdftex.def)             Requested size: 469.47046pt x 347.51526pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-] [11
+(Font)              <6> on input line 31.
+ [11
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -946,12 +938,12 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.07521 1.07521 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.07521 div 1 1.07521 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.21 
+l.35 
      
 Non-PDF special ignored!
 <special> color pop
@@ -959,17 +951,26 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/hep-sm.png>]
-<figures/quirk-antiquirk.jpg, id=156, 423.5825pt x 271.0125pt>
+ <./figures/hep-sm.png>] [12
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+<figures/quirk-antiquirk.jpg, id=151, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
-Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32.
+Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
 (pdftex.def)             Requested size: 469.47046pt x 300.38493pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12
+[13
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -978,7 +979,9 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [13
+] (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [14
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -989,12 +992,12 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.10838 1.10838 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.10838 div 1 1.10838 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.43 
+l.67 
      
 Non-PDF special ignored!
 <special> color pop
@@ -1002,31 +1005,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/quirk-antiquirk.jpg>]
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
-File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [14
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) (src/2-2-Zprime.tex [15
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
+ <./figures/quirk-antiquirk.jpg>] [15
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1056,24 +1035,6 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1.
-
-[17
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1082,7 +1043,11 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [18
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] [17
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1096,9 +1061,36 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 1127) in paragraph at lines 24--25
+Underfull \hbox (badness 1127) in paragraph at lines 22--23
 []\T2A/cmr/m/n/14.4 Процессы пар-но-го рож-де-ния за-ря-жен-ных $\OML/cmm/m/it/
 14.4 W[]$\T2A/cmr/m/n/14.4 -бозонов в ад-рон-ных
+ []
+
+[18
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 4872) in paragraph at lines 35--36
+[]\T2A/cmr/m/n/14.4 Из ана-ли-за экс-пе-ри-мен-таль-ных дан-ных по из-ме-ре-нию
+ про-цес-са
  []
 
 [19
@@ -1110,47 +1102,20 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
 ]
-Underfull \hbox (badness 4872) in paragraph at lines 37--38
-[]\T2A/cmr/m/n/14.4 Из ана-ли-за экс-пе-ри-мен-таль-ных дан-ных по из-ме-ре-нию
- про-цес-са
- []
-
-[20
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]
-Underfull \hbox (badness 1565) in paragraph at lines 41--42
+Underfull \hbox (badness 1565) in paragraph at lines 39--40
 []\T2A/cmr/m/n/14.4 Возможности кол-лай-де-ра \T2A/cmr/m/it/14.4 LНС \T2A/cmr/m
 /n/14.4 по об-на-ру-же-нию эф-фек-тов $\OML/cmm/m/it/14.4 Z$$\OMS/cmsy/m/n/14.4
   $$\OML/cmm/m/it/14.4 Z[]$\T2A/cmr/m/n/14.4 -
  []
 
 
-Underfull \hbox (badness 4013) in paragraph at lines 41--42
+Underfull \hbox (badness 4013) in paragraph at lines 39--40
 \T2A/cmr/m/n/14.4 смешивания в про-цес-се рож-де-ния пар за-ря-жен-ных ка-либ-р
 о-воч-ных
  []
 
-) [21
+) [20
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1159,7 +1124,31 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (src/conclusion.tex) [22
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
+[21
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
+[22
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] (src/conclusion.tex) [23
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1215,7 +1204,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
 а:
  []
 
-[23
+[24
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1265,7 +1254,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) [24
+]) [25
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1297,7 +1286,7 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/attachment-1.aux'.
 
- (src/attachment-1.tex) [25
+ (src/attachment-1.tex) [26
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1309,39 +1298,40 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (referat.aux (src/title_referat.aux) (src/introduction.aux)
 (src/general-description.aux) (src/attachment-1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
 Package rerunfilecheck Info: File `referat.out' has not changed.
-(rerunfilecheck)             Checksum: 28AA8D5E1AD20D04BE290FB07964FE25;6572.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
+(rerunfilecheck)             Checksum: 47350BD30DDA7BBC9CDB0CFB1144A9C6;5572.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 12970 strings out of 492895
- 173168 string characters out of 3137659
- 265084 words of memory out of 3000000
- 16624 multiletter control sequences out of 15000+200000
- 15253 words of font info for 41 fonts, out of 3000000 for 9000
+ 12967 strings out of 492895
+ 173133 string characters out of 3137659
+ 264006 words of memory out of 3000000
+ 16622 multiletter control sequences out of 15000+200000
+ 16144 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,7n,31p,3192b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,7n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\User\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Use
+l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\User\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Use
 r\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Us
-ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk>
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1
-440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Soft/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on referat.pdf (25 pages, 311034 bytes).
+ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi1440.pk>
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1
+440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm1440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:
+/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on referat.pdf (26 pages, 323354 bytes).
 PDF statistics:
- 595 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
