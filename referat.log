@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  10 JUN 2019 01:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  10 JUN 2019 11:36
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -9,7 +9,7 @@ LaTeX Warning: You have requested document class `styles/report',
                but the document class provides `report'.
 
 Document Class: report 2001/04/21 v1.4e Standard LaTeX document class
-("D:\Soft\MiKTeX 2.9\tex/latex/base\size12.clo"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -25,19 +25,19 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/t2\mathtext.sty
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/t2\mathtext.sty"
 Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 119.
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("D:\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-("D:\Soft\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
 File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -232,21 +232,21 @@ File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-("D:\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-("D:\Soft\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\utf8x.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucs.sty
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-global.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-global.def"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count89
@@ -254,76 +254,77 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
 )
-("D:\Soft\MiKTeX 2.9\tex/generic/babel\babel.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2019/05/04 3.31 The Babel package
 
-("D:\Soft\MiKTeX 2.9\tex/generic/babel\switch.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/babel\switch.def"
 File: switch.def 2019/05/04 3.31 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/arabi\bblopts.cfg
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-("D:\Soft\MiKTeX 2.9\tex/generic/babel\babel.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2019/05/04 3.31 Babel common definitions
 \babel@savecnt=\count90
 \U@D=\dimen103
 
-("D:\Soft\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@dirlevel=\count91
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-russian\russianb.ldf
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/babel-russian\russianb.ldf"
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
 Package babel Info: Making " an active character on input line 120.
 Package babel Info: Default for \cyrdash is provided on input line 157.
-)) (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/textcase\textcase.sty
+))
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
 \@input{styles/preable.aux}
 \openout2 = `styles/preable.aux'.
 
-(styles/preable.tex ("D:\Soft\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+(styles/preable.tex ("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -359,29 +360,29 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("D:\Soft\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
 \Hy@linkcounter=\count92
 \Hy@pagecounter=\count93
 
-("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count94
 Package hyperref Info: Option `unicode' set `true' on input line 3475.
 
-("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
 File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4519.
@@ -393,7 +394,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count95
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -417,25 +418,25 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count100
 \c@bookmark@seq@number=\count101
 
-("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/base\latexsym.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 ) (styles/axodraw.sty
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/epsf\epsf.sty
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/epsf\epsf.sty"
 This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsffilein=\read1
 \epsfframemargin=\dimen110
@@ -446,19 +447,18 @@ This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsfxsize=\dimen115
 \epsfysize=\dimen116
 \pspoints=\dimen117
-) ("D:\Soft\MiKTeX 2.9\tex/generic/dvips\colordvi.sty")
-("D:\Soft\MiKTeX 2.9\tex/generic/dvips\rotate.tex"
+) ("D:\Root\Soft\MiKTeX 2.9\tex/generic/dvips\colordvi.sty")
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/dvips\rotate.tex"
 \rotdimen=\dimen118
 ))
-("D:\Soft\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/cite\cite.sty
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-)
-(styles/caption-disser.sty
+) (styles/caption-disser.sty
 
 LaTeX Warning: You have requested package `styles/caption-disser',
                but the package provides `caption'.
@@ -467,7 +467,7 @@ Package: caption 1995/04/05 v1.4b caption package (AS)
 \captionmargin=\skip44
 \as@captionbox=\box27
 \as@captionwidth=\skip45
-) ("D:\Soft\MiKTeX 2.9\tex/latex/float\float.sty"
+) ("D:\Root\Soft\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks20
@@ -475,18 +475,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks21
 \@floatcapt=\box29
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: dvips.def on input line 147.
 
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics-def\dvips.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics-def\dvips.def"
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
-("D:\Soft\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))) (referat.aux
 (src/title_referat.aux) (src/introduction.aux) (src/general-description.aux)
@@ -511,11 +511,10 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucsencs.def
+ ("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+("D:\Root\Soft\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count103
 \scratchdimen=\dimen119
@@ -528,10 +527,10 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \MPnumerator=\count107
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks23
-) ("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+) ("D:\Root\Soft\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 
@@ -541,10 +540,10 @@ orted.
 )
 \AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 13.
- ("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+ ("D:\Root\Soft\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+("D:\Root\Soft\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count109
@@ -552,18 +551,18 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
- (referat.out)
-(referat.out)
+
+(referat.out) (referat.out)
 \@outlinefile=\write3
 \openout3 = `referat.out'.
 
 \openout2 = `src/title_referat.aux'.
 
  (src/title_referat.tex
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-4.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-4.def"
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-0.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -572,10 +571,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 15.
 
-("D:\Soft\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-32.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [1
 Non-PDF special ignored!
@@ -710,7 +709,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+{C:/Users/Ilya_Burym/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -778,19 +777,43 @@ Non-PDF special ignored!
 \openout2 = `src/general-description.aux'.
 
  (src/general-description.tex
-Underfull \hbox (badness 2293) in paragraph at lines 10--14
-\T2A/cmr/m/n/14.4 зуль-та-тов ра-бо-ты бу-дут по-лу-че-ны огра-ни-че-ния на со-
-от-вет-ству-ю-щие
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-34.def"
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [5
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+
+
+
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]
+Underfull \hbox (badness 2781) in paragraph at lines 45--46
+[]\T2A/cmr/m/n/14.4 имитационная мо-дель про-цес-са рож-де-ния $\OML/cmm/m/it/1
+4.4 Z[]$\T2A/cmr/m/n/14.4 -бозонов в протон-
  []
 
-[5
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-
-
-
+) [6
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -803,27 +826,6 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-]) [6
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -979,9 +981,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
-File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [14
+] [14
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1190,7 +1190,7 @@ Underfull \hbox (badness 2205) in paragraph at lines 42--47
 -сту-
  []
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-33.def
+("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-33.def"
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
 Underfull \hbox (badness 2351) in paragraph at lines 53--57
@@ -1311,25 +1311,26 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
  12967 strings out of 492895
- 173133 string characters out of 3137659
+ 172192 string characters out of 3135320
  264006 words of memory out of 3000000
  16622 multiletter control sequences out of 15000+200000
  16144 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,7n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\User\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\User\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Use
-r\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Us
-ers\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi1440.pk>
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1
-440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\larm1440.pk><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:
-/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Soft/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr12.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on referat.pdf (26 pages, 323354 bytes).
+ <C:\Users\Ilya_Burym\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Ilya
+_Burym\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <
+C:\Users\Ilya_Burym\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+arm1200.pk> <C:\Users\Ilya_Burym\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\labi1440.pk> <C:\Users\Ilya_Burym\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Ilya_Burym\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><D:/Root/Soft/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Root/Sof
+t/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on referat.pdf (26 pages, 324686 bytes).
 PDF statistics:
  590 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
