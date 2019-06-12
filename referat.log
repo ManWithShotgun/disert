@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  13 JUN 2019 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  13 JUN 2019 01:58
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1093,7 +1093,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/review-sherpa.tex) [15
+]) (src/review-sherpa.tex [15
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1123,6 +1123,15 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ] [16
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+]) [17
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1173,7 +1182,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 46.
 
-(src/2-1-Zprime.tex [17
+(src/2-1-Zprime.tex [18
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1183,7 +1192,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [18
+] [19
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1193,7 +1202,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-<figures/hep-sm.png, id=204, 436.63126pt x 323.2075pt>
+<figures/hep-sm.png, id=209, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
@@ -1204,7 +1213,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 31.
- [19
+ [20
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1228,7 +1237,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/hep-sm.png>] [20
+ <./figures/hep-sm.png>] [21
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1238,7 +1247,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-<figures/quirk-antiquirk.jpg, id=217, 423.5825pt x 271.0125pt>
+<figures/quirk-antiquirk.jpg, id=221, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
 Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
@@ -1247,7 +1256,7 @@ Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21
+[22
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1256,7 +1265,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [22
+] [23
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1280,7 +1289,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/quirk-antiquirk.jpg>] [23
+ <./figures/quirk-antiquirk.jpg>] [24
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1301,7 +1310,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/2-3-Zprime.tex [24
+]) (src/2-3-Zprime.tex [25
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1322,7 +1331,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [25
+] [26
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1341,7 +1350,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 22--23
 14.4 W[]$\T2A/cmr/m/n/14.4 -бозонов в ад-рон-ных
  []
 
-[26
+[27
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1368,7 +1377,7 @@ Underfull \hbox (badness 4872) in paragraph at lines 35--36
  про-цес-са
  []
 
-[27
+[28
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1390,7 +1399,7 @@ Underfull \hbox (badness 4013) in paragraph at lines 39--40
 о-воч-ных
  []
 
-) [28
+) [29
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1401,7 +1410,7 @@ Non-PDF special ignored!
 <special> color pop
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
-[29
+[30
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1413,7 +1422,7 @@ Non-PDF special ignored!
 <special> color pop
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
-[30
+[31
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1423,7 +1432,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (src/conclusion.tex) [31
+] (src/conclusion.tex) [32
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1479,7 +1488,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
 а:
  []
 
-[32
+[33
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1529,7 +1538,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) [33
+]) [34
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1561,7 +1570,7 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/attachment-1.aux'.
 
- (src/attachment-1.tex) [34
+ (src/attachment-1.tex) [35
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1589,9 +1598,9 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 13011 strings out of 492895
- 173755 string characters out of 3137659
- 263006 words of memory out of 3000000
+ 13012 strings out of 492895
+ 173762 string characters out of 3137659
+ 269007 words of memory out of 3000000
  16632 multiletter control sequences out of 15000+200000
  16144 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1611,9 +1620,9 @@ c/amsfonts/cm/cmmi7.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Soft/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy7.pfb>
-Output written on referat.pdf (34 pages, 404852 bytes).
+Output written on referat.pdf (35 pages, 409728 bytes).
 PDF statistics:
- 722 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
+ 728 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
  155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
