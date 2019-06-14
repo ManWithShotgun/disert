@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  14 JUN 2019 16:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  14 JUN 2019 18:38
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1398,13 +1398,13 @@ Underfull \hbox (badness 4013) in paragraph at lines 39--40
  []
 
 ) (src/soft-for-dev.tex
-Underfull \hbox (badness 1478) in paragraph at lines 1--10
+Underfull \hbox (badness 1478) in paragraph at lines 1--5
 \T2A/cmr/m/n/14.4  объектно-ориентированный язык про-грам-ми-ро-ва-ния, раз-ра
 -бо-тан-ный
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 1--10
+Underfull \hbox (badness 1430) in paragraph at lines 1--5
 \T2A/cmr/m/n/14.4 в рам-ках ко-то-рой ис-пол-не-ние про-грам-мы пол-но-стью кон
 -тро-ли-ру-ет-ся
  []
@@ -1418,7 +1418,21 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [30
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 Широкое ис-поль-зо-ва-ние платформенно-ориентированного ко-
+да
+ []
+
+[30
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1432,9 +1446,17 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 1895) in paragraph at lines 19--23
+Underfull \hbox (badness 1776) in paragraph at lines 23--24
 []\T2A/cmr/m/n/14.4 Следующие успеш-ные про-ек-ты ре-а-ли-зо-ва-ны с при-вле-че
--ни-ем Java
+-ни-ем \T2A/cmr/m/it/14.4 Java
+ []
+
+
+Overfull \hbox (0.26546pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 J2EE\T2A/cmr/m/n/14.4 ) тех-но-ло-гий: ѕ\
+T2A/cmr/m/it/14.4 RuneScape\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Amazon\T2A/
+cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 eBay\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.
+4 LinkedIn\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Yahoo!\T2A/cmr/m/n/14.4 ї. 
  []
 
 [31
@@ -1467,7 +1489,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Underfull \hbox (badness 1484) in paragraph at lines 33--34
+Underfull \hbox (badness 1484) in paragraph at lines 40--41
 \T2A/cmr/m/n/14.4 ко-то-рые по-том бы-ли пор-ти-ро-ва-ны на мно-гие язы-ки (на-
 при-мер,
  []
@@ -1521,10 +1543,15 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 ]
-Underfull \hbox (badness 1960) in paragraph at lines 50--51
-[]\T2A/cmr/m/n/14.4 Между тем, осо-бен-но-сти яд-ра Spring при-ме-ни-мы в лю-бо
-м Java-
+Underfull \hbox (badness 1603) in paragraph at lines 57--58
+[]\T2A/cmr/m/n/14.4 Между тем, осо-бен-но-сти яд-ра \T2A/cmr/m/it/14.4 Spring \
+T2A/cmr/m/n/14.4 при-ме-ни-мы в лю-бом \T2A/cmr/m/it/14.4 Java\T2A/cmr/m/n/14.4
+ -
  []
 
 [33
@@ -1544,11 +1571,11 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+] [34
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [34
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1603,7 +1630,13 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) [37
+]
+Underfull \hbox (badness 1616) in paragraph at lines 108--109
+\T2A/cmr/m/it/14.4 Amazon EC2 \T2A/cmr/m/n/14.4 пред-ла-га-ет боль-ше ти-пов и 
+раз-ме-ров вы-чис-ли-тель-ных
+ []
+
+) [37
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1647,43 +1680,29 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ] (src/thebib.tex
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
 []\T2A/cmr/m/n/14.4 Linux-2017: са-мые пер-спек-тив-ные дис-три-бу-ти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
 \T2A/cmr/m/n/14.4 вы [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--47
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
 []\T2A/cmr/m/n/14.4 Н. В. Крас-ни-ков, В. А. Мат-ве-ев. По-иск но-вой фи-зи-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--47
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
 \T2A/cmr/m/n/14.4 ки на LHC [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 49--54
+Underfull \hbox (badness 2205) in paragraph at lines 70--75
 []\T2A/cmr/m/n/14.4 Official documentation [Элек-трон-ный ре-сурс].  Ре-жим до
 -сту-
- []
-
-("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-33.def"
-File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-)
-Underfull \hbox (badness 2351) in paragraph at lines 60--64
-[]\T2A/cmr/m/n/14.4 Слабое вза-и-мо-дей-ствие [Элек-трон-ный-ре-сурс].  Ре-жим
- до-сту-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--64
-\T2A/cmr/m/n/14.4 па: http://nuclphys.sinp.msu.ru/enc/e149.htm  Да-та до-сту-п
-а:
  []
 
 [41
@@ -1736,7 +1755,37 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) [42
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+] ("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-33.def"
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+Underfull \hbox (badness 2351) in paragraph at lines 81--85
+[]\T2A/cmr/m/n/14.4 Слабое вза-и-мо-дей-ствие [Элек-трон-ный-ре-сурс].  Ре-жим
+ до-сту-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
+\T2A/cmr/m/n/14.4 па: http://nuclphys.sinp.msu.ru/enc/e149.htm  Да-та до-сту-п
+а:
+ []
+
+) [42
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1796,10 +1845,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 13051 strings out of 492895
- 173101 string characters out of 3135320
- 269262 words of memory out of 3000000
- 16632 multiletter control sequences out of 15000+200000
+ 13062 strings out of 492895
+ 173188 string characters out of 3135320
+ 269373 words of memory out of 3000000
+ 16636 multiletter control sequences out of 15000+200000
  16144 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,7n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1819,9 +1868,9 @@ t/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Root/Soft/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy7.pfb>
-Output written on referat.pdf (43 pages, 388557 bytes).
+Output written on referat.pdf (43 pages, 396184 bytes).
 PDF statistics:
- 819 PDF objects out of 1000 (max. 8388607)
- 122 named destinations out of 1000 (max. 500000)
+ 841 PDF objects out of 1000 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
