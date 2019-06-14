@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  13 JUN 2019 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  14 JUN 2019 15:14
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -761,12 +761,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] (src/list-of-symbols.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-) [3
+] (src/list-of-symbols.tex) [3
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1092,7 +1087,13 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-]) (src/review-sherpa.tex [15
+]) (src/review-sherpa.tex
+Underfull \hbox (badness 1112) in paragraph at lines 1--21
+\T2A/cmr/m/n/14.4 па-ке-ты для рас-че-тов с опе-ре-жа-ю-щим по-ряд-ком. Яр-ки-м
+и при-ме-ра-ми
+ []
+
+[15
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1191,6 +1192,10 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 ] [19
 Non-PDF special ignored!
 <special> color push  Black
@@ -1201,7 +1206,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-<figures/hep-sm.png, id=209, 436.63126pt x 323.2075pt>
+<figures/hep-sm.png, id=228, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
@@ -1246,12 +1251,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-<figures/quirk-antiquirk.jpg, id=221, 423.5825pt x 271.0125pt>
-File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
-<use figures/quirk-antiquirk.jpg>
-Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
-(pdftex.def)             Requested size: 469.47046pt x 300.38493pt.
-
+File: figures/quirk-antiquirk.eps Graphic file (type eps)
+ <figures/quirk-antiquirk.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1272,9 +1273,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1.10838 1.10838 scale neg...
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1 1.10838 div 1 1.10838 d...
+<special> PSfile="figures/quirk-antiquirk.eps" llx=-0 lly=-0 urx=422 ury=27...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 
@@ -1288,7 +1287,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/quirk-antiquirk.jpg>] [24
+] [24
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1648,33 +1647,27 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ] (src/thebib.tex
-Underfull \hbox (badness 4036) in paragraph at lines 10--14
-\T2A/cmr/m/n/14.4 па: http://technomag.bmstu.ru/doc/48639.html  Да-та до-сту-п
-а:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 []\T2A/cmr/m/n/14.4 Linux-2017: са-мые пер-спек-тив-ные дис-три-бу-ти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 \T2A/cmr/m/n/14.4 вы [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
 []\T2A/cmr/m/n/14.4 Н. В. Крас-ни-ков, В. А. Мат-ве-ев. По-иск но-вой фи-зи-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
 \T2A/cmr/m/n/14.4 ки на LHC [Элек-трон-ный ре-сурс].  Ре-жим до-сту-па:
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 42--47
+Underfull \hbox (badness 2205) in paragraph at lines 49--54
 []\T2A/cmr/m/n/14.4 Official documentation [Элек-трон-ный ре-сурс].  Ре-жим до
 -сту-
  []
@@ -1682,13 +1675,13 @@ Underfull \hbox (badness 2205) in paragraph at lines 42--47
 ("D:\Root\Soft\MiKTeX 2.9\tex/latex/ucs\uni-33.def"
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
-Underfull \hbox (badness 2351) in paragraph at lines 53--57
+Underfull \hbox (badness 2351) in paragraph at lines 60--64
 []\T2A/cmr/m/n/14.4 Слабое вза-и-мо-дей-ствие [Элек-трон-ный-ре-сурс].  Ре-жим
  до-сту-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 \T2A/cmr/m/n/14.4 па: http://nuclphys.sinp.msu.ru/enc/e149.htm  Да-та до-сту-п
 а:
  []
@@ -1772,6 +1765,10 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 ]
 \openout2 = `src/attachment-1.aux'.
 
@@ -1799,9 +1796,9 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 13049 strings out of 492895
- 173068 string characters out of 3135320
- 269008 words of memory out of 3000000
+ 13051 strings out of 492895
+ 173101 string characters out of 3135320
+ 269262 words of memory out of 3000000
  16632 multiletter control sequences out of 15000+200000
  16144 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1822,9 +1819,9 @@ t/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Root/Soft/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy7.pfb>
-Output written on referat.pdf (43 pages, 437454 bytes).
+Output written on referat.pdf (43 pages, 388557 bytes).
 PDF statistics:
- 801 PDF objects out of 1000 (max. 8388607)
- 120 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 819 PDF objects out of 1000 (max. 8388607)
+ 122 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
