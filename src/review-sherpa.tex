@@ -56,25 +56,21 @@
 		\caption{Сравнительный анализ генераторов событий физики
 			высоких энергий}
 		\label{tab:table1}
-		\begin{tabular}{ | c | c | c | p{9cm} |}
+		\begin{tabular}{ | c | p{5cm} | p{4cm} | p{4cm} |}
 			\hline
-			Название & Сложность реализации модели & Время модуляции события & Summary \\ \hline
-			\textit{PYTHIA} & 11C & 22C & A clear day with lots of sunshine.  
-			However, the strong breeze will bring down the temperatures. \\ \hline
-			Tuesday & 9C & 19C & Cloudy with rain, across many northern regions. Clear spells 
-			across most of Scotland and Northern Ireland, 
-			but rain reaching the far northwest. \\ \hline
-			Wednesday & 10C & 21C & Rain will still linger for the morning. 
-			Conditions will improve by early afternoon and continue 
-			throughout the evening. \\
+			Название & Сложность реализации модели & Время модуляции 10000 столкновений, с & Размер пакета, Мб \\ \hline
+			\textit{PYTHIA} & Легко, так как достаточно указать коэффициенты и массы частиц & \hspace{2cm}5 & \hspace{2cm}5 \\ \hline
+			\textit{Powheg-Box} & Сложно, так как требуется более детальная настройка начальных параметров системы & \hspace{2cm}10 & \hspace{2cm}20 \\ \hline
+			\textit{Sherpa} & Сложно, так как необходимо устанавливать и настраивать дополнительные модули & \hspace{2cm}7 & \hspace{2cm}25 \\
 			\hline
 		\end{tabular}
 	\end{flushleft}
 \end{table}
 
 В соответствие с таблицей сравнения~\ref{tab:table1} было принято решение для разработки имитационной медли использовать генератор событий физики
-высоких энергий \textit{PYTHIA}. Объектно-орентированый язык программрования, используемый в пакете \textit{PYTHIA}, и ряд готовых модулей в пакете требующих только настроичных входных параметров способствуют более простой и быстрой реализации имметационной моедли для генерации одного канала событий. В пакетах 1 и 2  время модуляции одного
-Генерации одного канала событий, что уменьшает затраты процессорного времени
+высоких энергий \textit{PYTHIA}. Объектно-орентированый язык программрования, используемый в пакете \textit{PYTHIA}, и ряд готовых модулей в пакете требующих только настроичных входных параметров способствуют более простой и быстрой реализации имметационной моедли для генерации одного канала событий. В пакетах \textit{Powheg-Box} и \textit{Sherpa} время модуляции десяти тысячи на несколько секунд выше чем в пакете \textit{PYTHIA}, что сложится в часы при расчете значений для всех ${M}_{{Z}^{\prime}}$.
+% и точность
+% Генерации одного канала событий, что уменьшает затраты процессорного времени
 
 
 % https://arxiv.org/format/0811.4622
