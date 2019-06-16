@@ -7,6 +7,30 @@
 %\usepackage[labelfont=bf]{caption}
 %\usepackage{threeparttable}
 
+\usepackage{color}
+
+\definecolor{pblue}{rgb}{0.13,0.13,1}
+\definecolor{pgreen}{rgb}{0,0.5,0}
+\definecolor{pred}{rgb}{0.9,0,0}
+\definecolor{pgrey}{rgb}{0.46,0.45,0.48}
+
+\usepackage{listings}
+\lstset{language=Java,
+	basicstyle=\tiny,
+	showspaces=false,
+	showtabs=false,
+	breaklines=true,
+	showstringspaces=false,
+	breakatwhitespace=true,
+	commentstyle=\color{pgreen},
+	keywordstyle=\color{pblue},
+	stringstyle=\color{pred},
+	basicstyle=\ttfamily,
+	moredelim=[il][\textcolor{pgrey}]{$$},
+	moredelim=[is][\textcolor{pgrey}]{\%\%}{\%\%}
+}
+
+
 \include{styles/preable}
 
 
@@ -45,7 +69,7 @@
 \section{Обзор генератора <<Sherpa>>}
 \input{src/review-sherpa}
 
-\chapter{РАЗРАБОТКА АЛГОРИТМОВ И ТЕХНОЛОГИЙ РЕШЕНИЯ ПОСТАВЛЕННОЙ ЗАДАЧИ 19-30}
+\chapter{РАЗРАБОТКА АЛГОРИТМОВ И ТЕХНОЛОГИЙ РЕШЕНИЯ ПОСТАВЛЕННОЙ ЗАДАЧИ}
 \section{Рождения $Z^\prime$ - бозонов в протон-протонных столкновениях с учетом эффектов $Z$ - $Z^\prime$ смешивания}
 \input{src/2-1-Zprime}
 \input{src/2-3-Zprime}
@@ -53,10 +77,10 @@
 \input{src/soft-for-dev}
 
 
-\chapter{РАЗРАБОТКА \textit{WEB}-ПРИЛОЖЕНИЯ 30-42}
+\chapter{РАЗРАБОТКА \textit{WEB}-ПРИЛОЖЕНИЯ}
 \input{src/web-app-dev}
 
-\chapter{ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРАБОТАННОГО ПРИЛОЖЕНИЯ 42-50}
+\chapter{ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРАБОТАННОГО ПРИЛОЖЕНИЯ}
 \section{Верификация работы программы}
 \input{src/verify-section}
 \section{Анализ результатов верификации}
