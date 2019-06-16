@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 20:52
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -2135,7 +2135,18 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/verify-2.png>]) (src/analysis-of-verification.tex) [52
+ <./figures/verify-2.png>]) (src/analysis-of-verification.tex
+<figures/input-empty.png, id=480, 178.6675pt x 46.1725pt>
+File: figures/input-empty.png Graphic file (type png)
+<use figures/input-empty.png>
+Package pdftex.def Info: figures/input-empty.png  used on input line 7.
+(pdftex.def)             Requested size: 234.73523pt x 60.66533pt.
+<figures/input-invalid.png, id=482, 165.61874pt x 67.25125pt>
+File: figures/input-invalid.png Graphic file (type png)
+<use figures/input-invalid.png>
+Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
+(pdftex.def)             Requested size: 234.73523pt x 95.3209pt.
+ [52
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2143,8 +2154,118 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.31389 1.31389 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.31389 div 1 1.31389 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.22 
+     
+Non-PDF special ignored!
 <special> color pop
-] (src/conclusion.tex) [53
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.41739 1.41739 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.41739 div 1 1.41739 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.22 
+     
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/input-empty.png> <./figures/input-invalid.png>]
+<figures/validation-code.png, id=490, 481.8pt x 112.42pt>
+File: figures/validation-code.png Graphic file (type png)
+<use figures/validation-code.png>
+Package pdftex.def Info: figures/validation-code.png  used on input line 25.
+(pdftex.def)             Requested size: 469.47046pt x 109.54643pt.
+<figures/cache.png, id=492, 481.8pt x 35.13126pt>
+File: figures/cache.png Graphic file (type png)
+<use figures/cache.png>
+Package pdftex.def Info: figures/cache.png  used on input line 38.
+(pdftex.def)             Requested size: 469.47046pt x 34.23325pt.
+ [53
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 0.97444 0.97444 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 0.97444 div 1 0.97444 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 В
+       ажным моментом в реализации архитекр�...
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 0.97444 0.97444 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 0.97444 div 1 0.97444 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 В
+       ажным моментом в реализации архитекр�...
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/validation-code.png> <./figures/cache.png>]
+<figures/elasti-cache.png, id=500, 476.78125pt x 233.87375pt>
+File: figures/elasti-cache.png Graphic file (type png)
+<use figures/elasti-cache.png>
+Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
+(pdftex.def)             Requested size: 469.47046pt x 230.30095pt.
+) [54
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 0.98473 0.98473 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 0.98473 div 1 0.98473 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.65 \newpage
+             
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/elasti-cache.png>] (src/conclusion.tex) [55
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2172,7 +2293,7 @@ Underfull \hbox (badness 2205) in paragraph at lines 62--67
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [54
+) [56
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2238,7 +2359,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--77
 �:
  []
 
-) [55
+) [57
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2290,7 +2411,7 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/attachment-1.aux'.
 
- (src/attachment-1.tex) [56
+ (src/attachment-1.tex) [58
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2310,14 +2431,18 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `referat.out' has not changed.
 (rerunfilecheck)             Checksum: 2A42F529371D25F9FAC90130493F4608;6318.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  )
 (\end occurred when \ifx on line 16 was incomplete) 
 Here is how much of TeX's memory you used:
- 13172 strings out of 492895
- 176441 string characters out of 3137659
- 266030 words of memory out of 3000000
- 16698 multiletter control sequences out of 15000+200000
+ 13209 strings out of 492895
+ 177226 string characters out of 3137659
+ 266545 words of memory out of 3000000
+ 16723 multiletter control sequences out of 15000+200000
  17014 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2340,9 +2465,9 @@ fonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (56 pages, 961302 bytes).
+Output written on referat.pdf (58 pages, 1074993 bytes).
 PDF statistics:
- 1019 PDF objects out of 1200 (max. 8388607)
- 156 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1054 PDF objects out of 1200 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 
