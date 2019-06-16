@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 22:13
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1878,37 +1878,12 @@ File: figures/preferences.png Graphic file (type png)
 <use figures/preferences.png>
 Package pdftex.def Info: figures/preferences.png  used on input line 139.
 (pdftex.def)             Requested size: 469.47046pt x 95.8531pt.
-<figures/request-point.png, id=417, 481.8pt x 171.64125pt>
-File: figures/request-point.png Graphic file (type png)
-<use figures/request-point.png>
-Package pdftex.def Info: figures/request-point.png  used on input line 151.
-(pdftex.def)             Requested size: 469.47046pt x 167.25392pt.
-<figures/progress.png, id=418, 421.575pt x 214.8025pt>
-File: figures/progress.png Graphic file (type png)
-<use figures/progress.png>
-Package pdftex.def Info: figures/progress.png  used on input line 160.
-(pdftex.def)             Requested size: 469.47046pt x 239.21039pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/graph-1.png, id=419, 481.8pt x 306.14375pt>
-File: figures/graph-1.png Graphic file (type png)
-<use figures/graph-1.png>
-Package pdftex.def Info: figures/graph-1.png  used on input line 169.
-(pdftex.def)             Requested size: 469.47046pt x 298.31844pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/graph-result.png, id=420, 481.8pt x 316.18124pt>
-File: figures/graph-result.png Graphic file (type png)
-<use figures/graph-result.png>
-Package pdftex.def Info: figures/graph-result.png  used on input line 176.
-(pdftex.def)             Requested size: 469.47046pt x 308.09937pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [44
+<figures/offline-calc.png, id=418, 186.6975pt x 127.47626pt>
+File: figures/offline-calc.png Graphic file (type png)
+<use figures/offline-calc.png>
+Package pdftex.def Info: figures/offline-calc.png  used on input line 150.
+(pdftex.def)             Requested size: 187.78531pt x 128.22481pt.
+ [44
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -1924,8 +1899,43 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.59 \chapter
-             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
+l.156 
+      
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1.00587 1.00587 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 1.00587 div 1 1.00587 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.156 
+      
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/preferences.png> <./figures/offline-calc.png>]
+<figures/request-point.png, id=426, 481.8pt x 171.64125pt>
+File: figures/request-point.png Graphic file (type png)
+<use figures/request-point.png>
+Package pdftex.def Info: figures/request-point.png  used on input line 160.
+(pdftex.def)             Requested size: 469.47046pt x 167.25392pt.
+<figures/progress.png, id=428, 421.575pt x 214.8025pt>
+File: figures/progress.png Graphic file (type png)
+<use figures/progress.png>
+Package pdftex.def Info: figures/progress.png  used on input line 169.
+(pdftex.def)             Requested size: 469.47046pt x 239.21039pt.
+ [45
+Non-PDF special ignored!
+<special> color push  Black
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
@@ -1934,22 +1944,13 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 0.97444 0.97444 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 0.97444 div 1 0.97444 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.59 \chapter
-             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> color pop
- <./figures/preferences.png> <./figures/request-point.png>] [45
-Non-PDF special ignored!
-<special> color push  Black
+l.175 
+      
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
@@ -1958,35 +1959,43 @@ Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1.11363 1.11363 scale neg...
 Non-PDF special ignored!
 <special> ps: currentpoint currentpoint translate 1 1.11363 div 1 1.11363 d...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.59 \chapter
-             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push  Black
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 0.97444 0.97444 scale neg...
-Non-PDF special ignored!
-<special> ps: currentpoint currentpoint translate 1 0.97444 div 1 0.97444 d...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.59 \chapter
-             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
+l.175 
+      
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/progress.png> <./figures/graph-1.png>] [46
+ <./figures/request-point.png> <./figures/progress.png>]
+<figures/graph-1.png, id=435, 481.8pt x 306.14375pt>
+File: figures/graph-1.png Graphic file (type png)
+<use figures/graph-1.png>
+Package pdftex.def Info: figures/graph-1.png  used on input line 182.
+(pdftex.def)             Requested size: 469.47046pt x 298.31844pt.
+<figures/graph-result.png, id=436, 481.8pt x 316.18124pt>
+File: figures/graph-result.png Graphic file (type png)
+<use figures/graph-result.png>
+Package pdftex.def Info: figures/graph-result.png  used on input line 189.
+(pdftex.def)             Requested size: 469.47046pt x 308.09937pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/language-switch.png, id=437, 153.57375pt x 193.72375pt>
+File: figures/language-switch.png Graphic file (type png)
+<use figures/language-switch.png>
+Package pdftex.def Info: figures/language-switch.png  used on input line 198.
+(pdftex.def)             Requested size: 140.84256pt x 177.67523pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [46
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2010,7 +2019,46 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/graph-result.png>]
+ <./figures/graph-1.png>] [47
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 0.97444 0.97444 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 0.97444 div 1 0.97444 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.59 \chapter
+             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 0.91716 0.91716 scale neg...
+Non-PDF special ignored!
+<special> ps: currentpoint currentpoint translate 1 0.91716 div 1 0.91716 d...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.10})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.59 \chapter
+             {ТЕСТИРОВАНИЕ И ВЕРИФИКАЦИЯ РАЗРА�...
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+ <./figures/graph-result.png> <./figures/language-switch.png>]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
 (src/verify-section.tex
 Underfull \hbox (badness 1867) in paragraph at lines 1--2
@@ -2018,7 +2066,7 @@ Underfull \hbox (badness 1867) in paragraph at lines 1--2
 ��-���� ���-���
  []
 
-[47
+[48
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2033,12 +2081,12 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-<figures/graph-1-verify.png, id=448, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=459, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
 (pdftex.def)             Requested size: 469.47046pt x 293.42796pt.
- [48
+ [49
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2063,7 +2111,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/graph-1-verify.png>]
-<figures/verify-1.png, id=458, 461.725pt x 519.9425pt>
+<figures/verify-1.png, id=470, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 39.
@@ -2072,7 +2120,7 @@ Package pdftex.def Info: figures/verify-1.png  used on input line 39.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[49
+[50
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2081,7 +2129,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
-] [50
+] [51
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2106,12 +2154,12 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/verify-1.png>]
-<figures/verify-2.png, id=469, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=480, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 48.
 (pdftex.def)             Requested size: 469.47046pt x 522.54468pt.
- [51
+ [52
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2136,17 +2184,17 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=480, 178.6675pt x 46.1725pt>
+<figures/input-empty.png, id=491, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 234.73523pt x 60.66533pt.
-<figures/input-invalid.png, id=482, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=493, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
 (pdftex.def)             Requested size: 234.73523pt x 95.3209pt.
- [52
+ [53
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2186,17 +2234,17 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/validation-code.png, id=490, 481.8pt x 112.42pt>
+<figures/validation-code.png, id=501, 481.8pt x 112.42pt>
 File: figures/validation-code.png Graphic file (type png)
 <use figures/validation-code.png>
 Package pdftex.def Info: figures/validation-code.png  used on input line 25.
 (pdftex.def)             Requested size: 469.47046pt x 109.54643pt.
-<figures/cache.png, id=492, 481.8pt x 35.13126pt>
+<figures/cache.png, id=503, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
 (pdftex.def)             Requested size: 469.47046pt x 34.23325pt.
- [53
+ [54
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2236,12 +2284,12 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=500, 476.78125pt x 233.87375pt>
+<figures/elasti-cache.png, id=511, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
 (pdftex.def)             Requested size: 469.47046pt x 230.30095pt.
-) [54
+) [55
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2265,7 +2313,7 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
- <./figures/elasti-cache.png>] (src/conclusion.tex) [55
+ <./figures/elasti-cache.png>] (src/conclusion.tex) [56
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2293,7 +2341,7 @@ Underfull \hbox (badness 2205) in paragraph at lines 62--67
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [56
+) [57
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2359,7 +2407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--77
 �:
  []
 
-) [57
+) [58
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2411,7 +2459,7 @@ Non-PDF special ignored!
 ]
 \openout2 = `src/attachment-1.aux'.
 
- (src/attachment-1.tex) [58
+ (src/attachment-1.tex) [59
 Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
@@ -2431,18 +2479,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `referat.out' has not changed.
 (rerunfilecheck)             Checksum: 2A42F529371D25F9FAC90130493F4608;6318.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  )
 (\end occurred when \ifx on line 16 was incomplete) 
 Here is how much of TeX's memory you used:
- 13209 strings out of 492895
- 177226 string characters out of 3137659
- 266545 words of memory out of 3000000
- 16723 multiletter control sequences out of 15000+200000
+ 13224 strings out of 492895
+ 177570 string characters out of 3137659
+ 266681 words of memory out of 3000000
+ 16733 multiletter control sequences out of 15000+200000
  17014 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2465,9 +2509,9 @@ fonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (58 pages, 1074993 bytes).
+Output written on referat.pdf (59 pages, 1085420 bytes).
 PDF statistics:
- 1054 PDF objects out of 1200 (max. 8388607)
- 163 named destinations out of 1000 (max. 500000)
- 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1067 PDF objects out of 1200 (max. 8388607)
+ 166 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
