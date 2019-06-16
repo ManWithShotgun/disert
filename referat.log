@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  16 JUN 2019 18:11
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -2028,8 +2028,12 @@ Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
+Non-PDF special ignored!
+<special> color push  Black
+Non-PDF special ignored!
+<special> color pop
 ]
-<figures/graph-1-verify.png, id=445, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=448, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
@@ -2059,7 +2063,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/graph-1-verify.png>]
-<figures/verify-1.png, id=455, 461.725pt x 519.9425pt>
+<figures/verify-1.png, id=458, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 39.
@@ -2102,7 +2106,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
  <./figures/verify-1.png>]
-<figures/verify-2.png, id=466, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=469, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 48.
@@ -2310,10 +2314,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  )
 (\end occurred when \ifx on line 16 was incomplete) 
 Here is how much of TeX's memory you used:
- 13170 strings out of 492895
- 176414 string characters out of 3137659
- 265945 words of memory out of 3000000
- 16697 multiletter control sequences out of 15000+200000
+ 13172 strings out of 492895
+ 176441 string characters out of 3137659
+ 266030 words of memory out of 3000000
+ 16698 multiletter control sequences out of 15000+200000
  17014 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,31p,3753b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2336,9 +2340,9 @@ fonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (56 pages, 960802 bytes).
+Output written on referat.pdf (56 pages, 961302 bytes).
 PDF statistics:
- 1016 PDF objects out of 1200 (max. 8388607)
- 155 named destinations out of 1000 (max. 500000)
+ 1019 PDF objects out of 1200 (max. 8388607)
+ 156 named destinations out of 1000 (max. 500000)
  210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
