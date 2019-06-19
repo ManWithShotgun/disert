@@ -378,7 +378,7 @@
     \normalfont \centering
     \interlinepenalty\@M
     \large \bfseries  #1\par\nobreak
-    \vskip 40\p@
+    \vskip 20\p@
   }}
 \newcommand\section{\@startsection {section}{1}{\parindent}%
                                    {-3.5ex \@plus -1ex \@minus -.2ex}%
