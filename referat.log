@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  18 JUN 2019 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  20 JUN 2019 00:28
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -834,12 +834,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
 
  []
 
@@ -847,20 +842,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 
 
-] (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
+]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 49--50
+Underfull \hbox (badness 2781) in paragraph at lines 47--48
 []\T2A/cmr/m/n/14.4 имитационная мо-дель про-цес-са рож-де-ния $\OML/cmm/m/it/1
 4.4 Z[]$\T2A/cmr/m/n/14.4 -бозонов в протон-
  []
@@ -872,44 +872,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 
+l.58 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
@@ -918,26 +918,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
 (src/2-2-Zprime.tex [9
 
 
-]) [10] (src/review-pythia.tex [11]
+]) [10] (src/soft-for-dev.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 Широкое ис-поль-зо-ва-ние платформенно-ориентированного ко-
+да
+ []
+
+[11]
+Underfull \hbox (badness 1776) in paragraph at lines 23--24
+[]\T2A/cmr/m/n/14.4 Следующие успеш-ные про-ек-ты ре-а-ли-зо-ва-ны с при-вле-че
+-ни-ем \T2A/cmr/m/it/14.4 Java
+ []
+
+
+Overfull \hbox (0.26546pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 J2EE\T2A/cmr/m/n/14.4 ) тех-но-ло-гий: ѕ\
+T2A/cmr/m/it/14.4 RuneScape\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Amazon\T2A/
+cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 eBay\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.
+4 LinkedIn\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Yahoo!\T2A/cmr/m/n/14.4 ї. 
+ []
+
+[12]
+Underfull \hbox (badness 1484) in paragraph at lines 39--40
+\T2A/cmr/m/n/14.4 ко-то-рые по-том бы-ли пор-ти-ро-ва-ны на мно-гие язы-ки (на-
+при-мер,
+ []
+
+[13]
+Underfull \hbox (badness 1603) in paragraph at lines 56--57
+[]\T2A/cmr/m/n/14.4 Между тем, осо-бен-но-сти яд-ра \T2A/cmr/m/it/14.4 Spring \
+T2A/cmr/m/n/14.4 при-ме-ни-мы в лю-бом \T2A/cmr/m/it/14.4 Java\T2A/cmr/m/n/14.4
+ -
+ []
+
+[14] [15] [16] [17]
+Underfull \hbox (badness 1616) in paragraph at lines 107--108
+\T2A/cmr/m/it/14.4 Amazon EC2 \T2A/cmr/m/n/14.4 пред-ла-га-ет боль-ше ти-пов и 
+раз-ме-ров вы-чис-ли-тель-ных
+ []
+
+) [18] (src/review-pythia.tex [19]
 Underfull \hbox (badness 3884) in paragraph at lines 86--90
 []\T2A/cmr/m/n/14.4 Этим ста-ди-ям от-ве-ча-ют три клас-са \T2A/cmr/m/it/14.4 P
 rocessLevel\T2A/cmr/m/n/14.4 , \T2A/cmr/m/it/14.4 PartonLevel \T2A/cmr/m/n/14.4
  и
  []
 
-[12]) (src/review-powheg.tex [13] [14] [15]) (src/review-sherpa.tex [16]
-[17] [18]
+[20]) (src/review-powheg.tex [21] [22] [23]) (src/review-sherpa.tex [24]
+[25] [26]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 57.
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[]\T2A/cmr/m/n/12 Сложность ре-а-ли-за-ции
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
 []\T2A/cmr/m/n/12 Время мо-ду-ля-ции
@@ -958,71 +992,71 @@ Overfull \hbox (11.6638pt too wide) in paragraph at lines 59--67
 []  
  []
 
-) [19pdfTeX warning (ext4): destination with the same identifier (name{table.1.
+) [27pdfTeX warning (ext4): destination with the same identifier (name{table.1.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.72 \chapter
+l.77 \chapter
              {Р РђР—Р РђР‘РћРўРљРђ РђР›Р“РћР РРўРњРћР’ Р РўР•РҐРќРћР›РћР“Р...
 ]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 73.
+(hyperref)                removing `superscript' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 73.
+(hyperref)                removing `\prime' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 73.
+(hyperref)                removing `superscript' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 73.
+(hyperref)                removing `\prime' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 73.
+(hyperref)                removing `math shift' on input line 78.
 
-(src/2-1-Zprime.tex [20
+(src/2-1-Zprime.tex [28
 
-] [21]
-<figures/hep-sm.png, id=262, 436.63126pt x 323.2075pt>
+] [29]
+<figures/hep-sm.png, id=353, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
 (pdftex.def)             Requested size: 469.47046pt x 347.51526pt.
- [22pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.35 
-      <./figures/hep-sm.png>] [23]
-<figures/quirk-antiquirk.jpg, id=276, 423.5825pt x 271.0125pt>
+      <./figures/hep-sm.png>] [31]
+<figures/quirk-antiquirk.jpg, id=368, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
 Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
@@ -1031,25 +1065,25 @@ Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24] [25pdfTeX warning (ext4): destination with the same identifier (name{figur
+[32] [33pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.2.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.67 
-      <./figures/quirk-antiquirk.jpg>] [26]) (src/2-3-Zprime.tex [27] [28]
-Underfull \hbox (badness 1127) in paragraph at lines 22--23
+      <./figures/quirk-antiquirk.jpg>] [34]) (src/2-3-Zprime.tex [35] [36]
+Underfull \hbox (badness 1127) in paragraph at lines 21--22
 []\T2A/cmr/m/n/14.4 Процессы пар-но-го рож-де-ния за-ря-жен-ных $\OML/cmm/m/it/
 14.4 W[]$\T2A/cmr/m/n/14.4 -бозонов в ад-рон-ных
  []
 
-[29]
+[37]
 Underfull \hbox (badness 4872) in paragraph at lines 35--36
 []\T2A/cmr/m/n/14.4 Из ана-ли-за экс-пе-ри-мен-таль-ных дан-ных по из-ме-ре-нию
  про-цес-са
  []
 
-[30]
+[38]
 Underfull \hbox (badness 1565) in paragraph at lines 39--40
 []\T2A/cmr/m/n/14.4 Возможности кол-лай-де-ра \T2A/cmr/m/it/14.4 LНС \T2A/cmr/m
 /n/14.4 по об-на-ру-же-нию эф-фек-тов $\OML/cmm/m/it/14.4 Z$$\OMS/cmsy/m/n/14.4
@@ -1062,201 +1096,150 @@ Underfull \hbox (badness 4013) in paragraph at lines 39--40
 о-воч-ных
  []
 
-) (src/soft-for-dev.tex
-Underfull \hbox (badness 1478) in paragraph at lines 1--5
-\T2A/cmr/m/n/14.4  объектно-ориентированный язык про-грам-ми-ро-ва-ния, раз-ра
--бо-тан-ный
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 1--5
-\T2A/cmr/m/n/14.4 вне за-ви-си-мо-сти от ком-пью-тер-ной ар-хи-тек-ту-ры. Да-та
- офи-ци-аль-но-го
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 1--5
-\T2A/cmr/m/n/14.4 кон-цеп-ции вир-ту-аль-ной ма-ши-ны от-но-сят сни-же-ние про-
-из-во-ди-тель-но-
- []
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]\T2A/cmr/m/n/14.4 Широкое ис-поль-зо-ва-ние платформенно-ориентированного ко-
-да
- []
-
-[32]
-Underfull \hbox (badness 1776) in paragraph at lines 23--24
-[]\T2A/cmr/m/n/14.4 Следующие успеш-ные про-ек-ты ре-а-ли-зо-ва-ны с при-вле-че
--ни-ем \T2A/cmr/m/it/14.4 Java
- []
-
-
-Overfull \hbox (0.26546pt too wide) in paragraph at lines 23--24
-\T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 J2EE\T2A/cmr/m/n/14.4 ) тех-но-ло-гий: ѕ\
-T2A/cmr/m/it/14.4 RuneScape\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Amazon\T2A/
-cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 eBay\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.
-4 LinkedIn\T2A/cmr/m/n/14.4 ї, ѕ\T2A/cmr/m/it/14.4 Yahoo!\T2A/cmr/m/n/14.4 ї. 
- []
-
-[33]
-Underfull \hbox (badness 1484) in paragraph at lines 40--41
-\T2A/cmr/m/n/14.4 ко-то-рые по-том бы-ли пор-ти-ро-ва-ны на мно-гие язы-ки (на-
-при-мер,
- []
-
-[34]
-Underfull \hbox (badness 1603) in paragraph at lines 57--58
-[]\T2A/cmr/m/n/14.4 Между тем, осо-бен-но-сти яд-ра \T2A/cmr/m/it/14.4 Spring \
-T2A/cmr/m/n/14.4 при-ме-ни-мы в лю-бом \T2A/cmr/m/it/14.4 Java\T2A/cmr/m/n/14.4
- -
- []
-
-[35] [36] [37] [38]
-Underfull \hbox (badness 1616) in paragraph at lines 108--109
-\T2A/cmr/m/it/14.4 Amazon EC2 \T2A/cmr/m/n/14.4 пред-ла-га-ет боль-ше ти-пов и 
-раз-ме-ров вы-чис-ли-тель-ных
- []
-
 ) [39]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
 (src/web-app-dev.tex
-Underfull \hbox (badness 1527) in paragraph at lines 19--25
+Underfull \hbox (badness 1527) in paragraph at lines 6--12
 \T2A/cmr/m/n/14.4 ин-тер-фей-сов, в первую оче-редь упо-ми-на-ют тер-мин \T2A/c
 mr/m/it/14.4 Human-Computer
  []
 
 [40
 
-] [41]
-<figures/welcome-page.png, id=418, 481.8pt x 190.7125pt>
+]
+<figures/welcome-page.png, id=433, 481.8pt x 190.7125pt>
 File: figures/welcome-page.png Graphic file (type png)
 <use figures/welcome-page.png>
-Package pdftex.def Info: figures/welcome-page.png  used on input line 84.
+Package pdftex.def Info: figures/welcome-page.png  used on input line 71.
 (pdftex.def)             Requested size: 469.47046pt x 185.8377pt.
-<figures/menu.png, id=420, 255.95625pt x 324.21124pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41]
+<figures/menu.png, id=440, 255.95625pt x 324.21124pt>
 File: figures/menu.png Graphic file (type png)
 <use figures/menu.png>
-Package pdftex.def Info: figures/menu.png  used on input line 93.
+Package pdftex.def Info: figures/menu.png  used on input line 80.
 (pdftex.def)             Requested size: 234.73523pt x 297.33307pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[42pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
-}) has been already used, duplicate ignored
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.99 
-      <./figures/welcome-page.png>]
-<figures/request-line.png, id=428, 491.8375pt x 141.52875pt>
+l.86 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.86 
+      <./figures/welcome-page.png> <./figures/menu.png>]
+<figures/request-line.png, id=447, 491.8375pt x 141.52875pt>
 File: figures/request-line.png Graphic file (type png)
 <use figures/request-line.png>
-Package pdftex.def Info: figures/request-line.png  used on input line 116.
+Package pdftex.def Info: figures/request-line.png  used on input line 103.
 (pdftex.def)             Requested size: 469.47046pt x 135.09724pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[43pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
-}) has been already used, duplicate ignored
+ [43pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.122 
-       <./figures/menu.png>] [44pdfTeX warning (ext4): destination with the sam
-e identifier (name{figure.3.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.134 
+l.113 
        <./figures/request-line.png>]
-<figures/preferences.png, id=440, 481.8pt x 98.3675pt>
+<figures/preferences.png, id=455, 481.8pt x 98.3675pt>
 File: figures/preferences.png Graphic file (type png)
 <use figures/preferences.png>
-Package pdftex.def Info: figures/preferences.png  used on input line 139.
+Package pdftex.def Info: figures/preferences.png  used on input line 126.
 (pdftex.def)             Requested size: 469.47046pt x 95.8531pt.
-<figures/offline-calc.png, id=442, 186.6975pt x 127.47626pt>
-File: figures/offline-calc.png Graphic file (type png)
-<use figures/offline-calc.png>
-Package pdftex.def Info: figures/offline-calc.png  used on input line 150.
-(pdftex.def)             Requested size: 187.78531pt x 128.22481pt.
- [45pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [44pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.156 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-3.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.156 
-       <./figures/preferences.png> <./figures/offline-calc.png>]
-<figures/request-point.png, id=450, 481.8pt x 171.64125pt>
+l.132 
+       <./figures/preferences.png>]
+<figures/offline-calc.png, id=462, 186.6975pt x 127.47626pt>
+File: figures/offline-calc.png Graphic file (type png)
+<use figures/offline-calc.png>
+Package pdftex.def Info: figures/offline-calc.png  used on input line 137.
+(pdftex.def)             Requested size: 187.78531pt x 128.22481pt.
+<figures/request-point.png, id=464, 481.8pt x 171.64125pt>
 File: figures/request-point.png Graphic file (type png)
 <use figures/request-point.png>
-Package pdftex.def Info: figures/request-point.png  used on input line 160.
+Package pdftex.def Info: figures/request-point.png  used on input line 147.
 (pdftex.def)             Requested size: 469.47046pt x 167.25392pt.
-<figures/progress.png, id=452, 421.575pt x 214.8025pt>
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.153 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.153 
+       <./figures/offline-calc.png> <./figures/request-point.png>]
+<figures/progress.png, id=472, 421.575pt x 214.8025pt>
 File: figures/progress.png Graphic file (type png)
 <use figures/progress.png>
-Package pdftex.def Info: figures/progress.png  used on input line 169.
+Package pdftex.def Info: figures/progress.png  used on input line 156.
 (pdftex.def)             Requested size: 469.47046pt x 239.21039pt.
- [46pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.175 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-3.7}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.175 
-       <./figures/request-point.png> <./figures/progress.png>]
-<figures/graph-1.png, id=460, 481.8pt x 306.14375pt>
+<figures/graph-1.png, id=474, 481.8pt x 306.14375pt>
 File: figures/graph-1.png Graphic file (type png)
 <use figures/graph-1.png>
-Package pdftex.def Info: figures/graph-1.png  used on input line 182.
+Package pdftex.def Info: figures/graph-1.png  used on input line 169.
 (pdftex.def)             Requested size: 469.47046pt x 298.31844pt.
- [47pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-8}) has been already used, duplicate ignored
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.189 Рџ
+l.176 Рџ
         СЂРµРґСЃС‚Р°РІР»РµРЅРЅС‹Р№ РЅР° СЂРёСЃСѓРЅРєРµ~\ref{fig:graph-1} РіС...
- <./figures/graph-1.png>]
-<figures/graph-result.png, id=471, 481.8pt x 316.18124pt>
+ <./figures/progress.png>]
+<figures/graph-result.png, id=486, 481.8pt x 316.18124pt>
 File: figures/graph-result.png Graphic file (type png)
 <use figures/graph-result.png>
-Package pdftex.def Info: figures/graph-result.png  used on input line 199.
+Package pdftex.def Info: figures/graph-result.png  used on input line 186.
 (pdftex.def)             Requested size: 469.47046pt x 308.09937pt.
- [48pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-9}) has been already used, duplicate ignored
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[47pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.205 
-       <./figures/graph-result.png>]
-<figures/language-switch.png, id=479, 153.57375pt x 193.72375pt>
+l.192 
+       <./figures/graph-1.png>]
+<figures/language-switch.png, id=493, 153.57375pt x 193.72375pt>
 File: figures/language-switch.png Graphic file (type png)
 <use figures/language-switch.png>
-Package pdftex.def Info: figures/language-switch.png  used on input line 209.
+Package pdftex.def Info: figures/language-switch.png  used on input line 196.
 (pdftex.def)             Requested size: 140.84256pt x 177.67523pt.
-) [49pdfTeX warning (ext4): destination with the same identifier (name{figure.3
-.10}) has been already used, duplicate ignored
+) [48pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.83 \chapter
+l.87 \chapter
              {РўР•РЎРўРР РћР’РђРќРР• Р Р’Р•Р РР¤РРљРђР¦РРЇ Р РђР—Р РђР...
- <./figures/language-switch.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.10})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.87 \chapter
+             {РўР•РЎРўРР РћР’РђРќРР• Р Р’Р•Р РР¤РРљРђР¦РРЇ Р РђР—Р РђР...
+ <./figures/graph-result.png> <./figures/language-switch.png>]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
 (src/verify-section.tex
 Underfull \hbox (badness 1867) in paragraph at lines 1--2
@@ -1264,22 +1247,23 @@ Underfull \hbox (badness 1867) in paragraph at lines 1--2
 ва-лись ста-тьи
  []
 
-[50
+[49
 
 ]
-<figures/graph-1-verify.png, id=496, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=511, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
 (pdftex.def)             Requested size: 469.47046pt x 293.42796pt.
- [51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [50pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.28 
-      <./figures/graph-1-verify.png>]
-<figures/verify-1.png, id=505, 461.725pt x 519.9425pt>
+l.29 РЎ
+       СѓС‰РµСЃС‚РІСѓРµС‚ РјРЅРѕРіРѕ С‚РµРѕСЂРµС‚РёС‡РµСЃРєРёС… РјРѕРґРµР»Рµ...
+ <./figures/graph-1-verify.png>]
+<figures/verify-1.png, id=522, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 39.
@@ -1288,36 +1272,37 @@ Package pdftex.def Info: figures/verify-1.png  used on input line 39.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[52] [53pdfTeX warning (ext4): destination with the same identifier (name{figur
+[51] [52pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.4.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.45 
       <./figures/verify-1.png>]
-<figures/verify-2.png, id=515, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=534, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 48.
 (pdftex.def)             Requested size: 469.47046pt x 522.54468pt.
- [54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.54 
-      <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=526, 178.6675pt x 46.1725pt>
+l.55 Рћ
+       СЃРЅРѕРІРЅРѕР№ Р·Р°РґР°С‡РµР№ РїСЂРёР»РѕР¶РµРЅРёСЏ СЏРІР»СЏРµС‚СЃСЏ Р...
+ <./figures/verify-2.png>]) (src/analysis-of-verification.tex
+<figures/input-empty.png, id=547, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 234.73523pt x 60.66533pt.
-<figures/input-invalid.png, id=528, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=549, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
 (pdftex.def)             Requested size: 234.73523pt x 95.3209pt.
- [55pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1330,43 +1315,41 @@ l.22
                                                   \fi \fi 
 l.22 
       <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/validation-code.png, id=537, 481.8pt x 112.42pt>
+<figures/validation-code.png, id=557, 481.8pt x 112.42pt>
 File: figures/validation-code.png Graphic file (type png)
 <use figures/validation-code.png>
 Package pdftex.def Info: figures/validation-code.png  used on input line 25.
 (pdftex.def)             Requested size: 469.47046pt x 109.54643pt.
-<figures/cache.png, id=539, 481.8pt x 35.13126pt>
+<figures/cache.png, id=559, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
 (pdftex.def)             Requested size: 469.47046pt x 34.23325pt.
- [56pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [55pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 Р’
-       Р°Р¶РЅС‹Рј РјРѕРјРµРЅС‚РѕРј РІ СЂРµР°Р»РёР·Р°С†РёРё Р°СЂС…РёС‚РµРєСЂС...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7}) 
-has been already used, duplicate ignored
+l.48 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.47 Р’
-       Р°Р¶РЅС‹Рј РјРѕРјРµРЅС‚РѕРј РІ СЂРµР°Р»РёР·Р°С†РёРё Р°СЂС…РёС‚РµРєСЂС...
- <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=547, 476.78125pt x 233.87375pt>
+l.48 
+      <./figures/validation-code.png> <./figures/cache.png>]
+<figures/elasti-cache.png, id=568, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
 (pdftex.def)             Requested size: 469.47046pt x 230.30095pt.
-) [57pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+) [56pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.89 \newpage
-              <./figures/elasti-cache.png>] (src/conclusion.tex) [58
+l.93 \newpage
+              <./figures/elasti-cache.png>] (src/conclusion.tex) [57
 
 ]
 (src/thebib.tex
@@ -1399,10 +1382,10 @@ Underfull \hbox (badness 1137) in paragraph at lines 54--58
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [59
+) [58
 
 ])
-[60]
+[59]
 \openout2 = `src/attachment-1.aux'.
 
  (src/attachment-1.tex
@@ -1410,49 +1393,49 @@ LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
  ("D:\Soft\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (155.66826pt too wide) in paragraph at lines 37--38
+Overfull \hbox (155.66826pt too wide) in paragraph at lines 36--37
 [][][][][][][][][][][][][][][][][]  
  []
 
-[61
+[60
 
 
 ]
-Overfull \hbox (155.66826pt too wide) in paragraph at lines 60--61
+Overfull \hbox (155.66826pt too wide) in paragraph at lines 59--60
 [][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (30.42674pt too wide) in paragraph at lines 65--66
+Overfull \hbox (30.42674pt too wide) in paragraph at lines 64--65
 [][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (155.66826pt too wide) in paragraph at lines 69--70
+Overfull \hbox (225.82927pt too wide) in paragraph at lines 68--69
 [][][][][][][][][][][][][][][][][]  
  []
 
-[62]
-Overfull \hbox (30.42674pt too wide) in paragraph at lines 72--73
-[][][][][][][][][][][][][][] 
+
+Overfull \hbox (100.58775pt too wide) in paragraph at lines 71--72
+[][][][][][][][][][][][][][][] 
  []
 
-) [63]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+[61]) [62]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (referat.aux (src/title_referat.aux) (src/introduction.aux)
 (src/general-description.aux) (src/attachment-1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `referat.out' has not changed.
-(rerunfilecheck)             Checksum: 1AFC96BCC311E3CB7CEE3485F69A69AF;6219.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+(rerunfilecheck)             Checksum: 0563879C7FD222E16A4EA27242AEF4CE;6819.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 15003 strings out of 492895
- 201489 string characters out of 3137659
- 353122 words of memory out of 3000000
- 18412 multiletter control sequences out of 15000+200000
+ 15015 strings out of 492895
+ 201638 string characters out of 3137659
+ 352121 words of memory out of 3000000
+ 18419 multiletter control sequences out of 15000+200000
  17324 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,40p,3753b,1870s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1460,9 +1443,9 @@ Here is how much of TeX's memory you used:
 t1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
 600\labx1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
 t2a/dpi600\lati1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\labi1440.pk> <C:\Users\User\AppData\Local\MiKTe
+/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labi1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\User\AppData\Local\MiKTe
 X\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\User\AppData\Loca
 l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><D:/Soft/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmex10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public
@@ -1475,9 +1458,9 @@ oft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (63 pages, 1140518 bytes).
+Output written on referat.pdf (62 pages, 1147128 bytes).
 PDF statistics:
- 1286 PDF objects out of 1440 (max. 8388607)
- 249 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1316 PDF objects out of 1440 (max. 8388607)
+ 254 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 

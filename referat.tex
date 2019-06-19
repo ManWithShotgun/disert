@@ -39,7 +39,7 @@
 
 \begin{document}
 	
-\renewcommand\contentsname{СОДЕРЖАНИЕ}
+\renewcommand\contentsname{ОГЛАВЛЕНИЕ}
 \renewcommand{\bibname}{БИБЛИОГРАФИЧЕСКИЙ СПИСОК}
 \renewcommand\chaptername{ГЛАВА}
 \renewcommand\figurename{Рисунок}
@@ -52,34 +52,33 @@
 \large \tableofcontents
 
 \newpage
-\chapter*{Перечень условных обозначений и сокращений}
-\addcontentsline{toc}{chapter}{Перечень условных обозначений и сокращений} % in Content
+\chapter*{ПЕРЕЧЕНЬ УСЛОВНЫХ ОБОЗНАЧЕНИЙ}
+\addcontentsline{toc}{chapter}{ПЕРЕЧЕНЬ УСЛОВНЫХ ОБОЗНАЧЕНИЙ} % in Content
 \input{src/list-of-symbols}
 
 \include{src/introduction}
 
 \include{src/general-description}
 
-\chapter{Анализ программ моделирования процессов столкновения элементарных частиц при высоких энергиях}
+\chapter{Современные программы моделирования процессов столкновения элементарных частиц при высоких энергиях}
 \input{src/2-2-Zprime}
+\section{Используемые средства разработки программного обеспечения}
+\input{src/soft-for-dev}
+% Современное программное обеспечение для обработки медицинских изображений
 
-Современное программное обеспечение для обработки медицинских изображений
-
-\section{Обзор генератора <<PYTHIA>>}
+\section{Обзор генератора <<\textit{PYTHIA}>>}
 \input{src/review-pythia}
-\section{Обзор генератора <<Powheg-Box>>}
+\section{Обзор генератора <<\textit{Powheg-Box}>>}
 \input{src/review-powheg}
-\section{Обзор генератора <<Sherpa>>}
+\section{Обзор генератора <<\textit{Sherpa}>>}
 \input{src/review-sherpa}
-
 \section{Постановка задачи на диссертационное исследование}
 
 \chapter{РАЗРАБОТКА АЛГОРИТМОВ И ТЕХНОЛОГИЙ РЕШЕНИЯ ПОСТАВЛЕННОЙ ЗАДАЧИ}
 \section{Рождения $Z^\prime$ - бозонов в протон-протонных столкновениях с учетом эффектов $Z$ - $Z^\prime$ смешивания}
 \input{src/2-1-Zprime}
 \input{src/2-3-Zprime}
-\section{Используемые средства разработки программного обеспечения}
-\input{src/soft-for-dev}
+\section{Выводы}
 
 
 \chapter{РАЗРАБОТКА \textit{WEB}-ПРИЛОЖЕНИЯ}
