@@ -364,7 +364,7 @@
 	\centering
     \interlinepenalty\@M
     \large \bfseries #1\par\nobreak
-    \vskip 40\p@
+    \vskip 20\p@
   }}
 \def\@schapter#1{\if@twocolumn
                    \@topnewpage[\@makeschapterhead{#1}]%
