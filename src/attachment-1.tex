@@ -9,7 +9,6 @@ import {Injectable} from '@angular/core';
 import {MainGraph} from './graphD3/main-graph';
 import {WebsoketService} from "../service/websoket.service";
 
-
 @Injectable({
 providedIn: 'root'
 })
@@ -66,16 +65,16 @@ localStorage.setItem(this.LOCAL_STORAGE_PREFERENCES_KEY, JSON.stringify(preferen
 }
 
 public removePreference(lineKey) {
-let preferences = JSON.parse(localStorage.getItem(this.LOCAL_STORAGE_PREFERENCES_KEY));
-let index = preferences.indexOf(lineKey);
-preferences.splice(index, 1);
-localStorage.setItem(this.LOCAL_STORAGE_PREFERENCES_KEY, JSON.stringify(preferences));
+	let preferences = JSON.parse(localStorage.getItem(this.LOCAL_STORAGE_PREFERENCES_KEY));
+	let index = preferences.indexOf(lineKey);
+	preferences.splice(index, 1);
+	localStorage.setItem(this.LOCAL_STORAGE_PREFERENCES_KEY, JSON.stringify(preferences));
 }
 
 public removeLine(lineKey) {
-console.log('Remove: ' + lineKey);
-this.removePreference(lineKey);
-this.mainGraphInstance.removeLine(lineKey);
+	console.log('Remove: ' + lineKey);
+	this.removePreference(lineKey);
+	this.mainGraphInstance.removeLine(lineKey);
 }
 
 
