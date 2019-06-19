@@ -359,7 +359,7 @@
     \ifnum \c@secnumdepth >\m@ne
        \centering \large\bfseries \@chapapp\space \thechapter
         \par\nobreak
-        \vskip 20\p@
+        \vskip 0\p@
     \fi
 	\centering
     \interlinepenalty\@M
@@ -380,7 +380,7 @@
     \large \bfseries  #1\par\nobreak
     \vskip 40\p@
   }}
-\newcommand\section{\@startsection {section}{1}{\z@}%
+\newcommand\section{\@startsection {section}{1}{\parindent}%
                                    {-3.5ex \@plus -1ex \@minus -.2ex}%
                                    {2.3ex \@plus.2ex}%
                                    {\normalfont\large\bfseries}}
