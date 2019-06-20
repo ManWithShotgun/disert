@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  20 JUN 2019 23:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  21 JUN 2019 00:41
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -588,45 +588,54 @@ l.59 \definecolor{Blue}{named}{Blue}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-) (referat.aux (src/title_referat.aux) (src/introduction.aux)
+) (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen123
+\enit@toks=\toks23
+\enit@inbox=\box32
+\enit@count@id=\count111
+\enitdp@description=\count112
+)
+(referat.aux (src/title_referat.aux) (src/introduction.aux)
 (src/general-description.aux) (src/attachment-1.aux))
 \openout1 = `referat.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen123
-\scratchbox=\box32
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen124
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count113
+\scratchdimen=\dimen124
+\scratchbox=\box33
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen125
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks25
 ) ("D:\Soft\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -640,9 +649,9 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count117
-\AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 39.
+\c@lstlisting=\count119
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 40.
 
 ("D:\Soft\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -650,11 +659,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("D:\Soft\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count118
+\c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
  (referat.out)
 (referat.out)
 \@outlinefile=\write3
@@ -882,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 47--48
+Underfull \hbox (badness 1014) in paragraph at lines 47--48
 []\T2A/cmr/m/n/14.4 имитационная мо-дель про-цес-са рож-де-ния $\OML/cmm/m/it/1
 4.4 Z[]$\T2A/cmr/m/n/14.4 -бозонов в протон-
  []
@@ -915,12 +924,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-[8]
+
 Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
@@ -948,9 +957,9 @@ Underfull \hbox (badness 1152) in paragraph at lines 13--14
  []
 
 ) [11] (src/soft-for-dev.tex
-Underfull \hbox (badness 2452) in paragraph at lines 9--10
-\T2A/cmr/m/n/14.4 кода (на-при-мер, тех-но-ло-гия \T2A/cmr/m/it/14.4 Jazelle\T2
-A/cmr/m/n/14.4 , под-дер-жи-ва-е-мая неко-то-ры-ми
+Underfull \hbox (badness 7238) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 Широкое ис-поль-зо-ва-ние платформенно-ориентированного ко-
+да
  []
 
 [12] [13]
@@ -966,15 +975,9 @@ Overfull \hbox (9.11119pt too wide) in paragraph at lines 33--34
  []
 
 [14]
-Underfull \hbox (badness 1910) in paragraph at lines 45--46
-[]\T2A/cmr/m/n/14.4 Фреймворк уда-лјн-но-го до-сту-па: кон-фи-гу-ри-ру-е-мая пе
--ре-да-ча \T2A/cmr/m/it/14.4 Java\T2A/cmr/m/n/14.4 -
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 48--49
-[]\T2A/cmr/m/n/14.4 Фреймворк ра-бо-ты с со-об-ще-ни-я-ми: кон-фи-гу-ри-ру-е-ма
-я ре-ги-стра-ция
+Underfull \hbox (badness 1590) in paragraph at lines 44--45
+[]\T2A/cmr/m/n/14.4 Фреймворк \T2A/cmr/m/it/14.4 MVC\T2A/cmr/m/n/14.4 : кар-кас
+, ос-но-ван-ный на \T2A/cmr/m/it/14.4 HTTP \T2A/cmr/m/n/14.4 и сервле-тах,
  []
 
 [15] [16]
@@ -1029,65 +1032,65 @@ l.74
 \IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 77.
+(hyperref)                removing `superscript' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 77.
+(hyperref)                removing `\prime' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightarrow' on input line 77.
+(hyperref)                removing `\rightarrow' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 77.
+(hyperref)                removing `superscript' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 77.
+(hyperref)                removing `superscript' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 78.
 
 (src/modeling.tex [28
 
 ] [29]) [30]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 80.
+(hyperref)                removing `math shift' on input line 81.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightarrow' on input line 80.
+(hyperref)                removing `\rightarrow' on input line 81.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 80.
+(hyperref)                removing `superscript' on input line 81.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 80.
+(hyperref)                removing `superscript' on input line 81.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 80.
+(hyperref)                removing `math shift' on input line 81.
 
 (src/imitation-modeling.tex [31]
-<figures/imitation-schema.png, id=393, 481.8pt x 176.66pt>
+<figures/imitation-schema.png, id=391, 481.8pt x 176.66pt>
 File: figures/imitation-schema.png Graphic file (type png)
 <use figures/imitation-schema.png>
 Package pdftex.def Info: figures/imitation-schema.png  used on input line 61.
@@ -1097,61 +1100,61 @@ Package pdftex.def Info: figures/imitation-schema.png  used on input line 61.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.82 \section
+l.83 \section
              {Р’С‹РІРѕРґС‹} <./figures/imitation-schema.png>]
 (src/summary-2.tex) [33]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } \IeC {\CYRG }
 \IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
 
-Underfull \hbox (badness 4940) in paragraph at lines 87--87
+Underfull \hbox (badness 4940) in paragraph at lines 88--88
 []\T2A/cmr/bx/n/14.4 Процесс рож-де-ния $\OML/cmm/m/it/14.4 Z[]$\T2A/cmr/bx/n/1
 4.4 -бозонов в протон-протонных
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 87.
+(hyperref)                removing `superscript' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 87.
+(hyperref)                removing `\prime' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 87.
+(hyperref)                removing `superscript' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 87.
+(hyperref)                removing `\prime' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 88.
 
 (src/2-1-Zprime.tex [34
 
 ] [35]
-<figures/hep-sm.png, id=430, 436.63126pt x 323.2075pt>
+<figures/hep-sm.png, id=428, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
@@ -1164,7 +1167,7 @@ Package pdftex.def Info: figures/hep-sm.png  used on input line 30.
 l.36 Р’
         XIX РІРµРєРµ С„РёР·РёРєРё РѕР±РЅР°СЂСѓР¶РёР»Рё, С‡С‚Рѕ СЌР»РµРєС‚СЂР...
  <./figures/hep-sm.png>] [37]
-<figures/quirk-antiquirk.jpg, id=444, 423.5825pt x 271.0125pt>
+<figures/quirk-antiquirk.jpg, id=442, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
 Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 52.
@@ -1211,7 +1214,7 @@ Underfull \hbox (badness 1418) in paragraph at lines 38--39
  []
 
 [44]) (src/block-schema.tex
-<figures/ui-schema.png, id=499, 483.8075pt x 465.74pt>
+<figures/ui-schema.png, id=497, 483.8075pt x 465.74pt>
 File: figures/ui-schema.png Graphic file (type png)
 <use figures/ui-schema.png>
 Package pdftex.def Info: figures/ui-schema.png  used on input line 6.
@@ -1239,7 +1242,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 6--12
  []
 
 [47]
-<figures/welcome-page.png, id=518, 481.8pt x 190.7125pt>
+<figures/welcome-page.png, id=516, 481.8pt x 190.7125pt>
 File: figures/welcome-page.png Graphic file (type png)
 <use figures/welcome-page.png>
 Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
@@ -1251,7 +1254,7 @@ Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
                                                   \fi \fi 
 l.74 
       <./figures/welcome-page.png>]
-<figures/menu.png, id=525, 255.95625pt x 324.21124pt>
+<figures/menu.png, id=523, 255.95625pt x 324.21124pt>
 File: figures/menu.png Graphic file (type png)
 <use figures/menu.png>
 Package pdftex.def Info: figures/menu.png  used on input line 79.
@@ -1263,7 +1266,7 @@ Package pdftex.def Info: figures/menu.png  used on input line 79.
                                                   \fi \fi 
 l.85 
       <./figures/menu.png>]
-<figures/request-line.png, id=533, 491.8375pt x 141.52875pt>
+<figures/request-line.png, id=531, 491.8375pt x 141.52875pt>
 File: figures/request-line.png Graphic file (type png)
 <use figures/request-line.png>
 Package pdftex.def Info: figures/request-line.png  used on input line 102.
@@ -1275,7 +1278,7 @@ Package pdftex.def Info: figures/request-line.png  used on input line 102.
                                                   \fi \fi 
 l.112 
        <./figures/request-line.png>]
-<figures/preferences.png, id=540, 481.8pt x 98.3675pt>
+<figures/preferences.png, id=538, 481.8pt x 98.3675pt>
 File: figures/preferences.png Graphic file (type png)
 <use figures/preferences.png>
 Package pdftex.def Info: figures/preferences.png  used on input line 125.
@@ -1287,12 +1290,12 @@ Package pdftex.def Info: figures/preferences.png  used on input line 125.
                                                   \fi \fi 
 l.131 
        <./figures/preferences.png>]
-<figures/offline-calc.png, id=547, 186.6975pt x 127.47626pt>
+<figures/offline-calc.png, id=545, 186.6975pt x 127.47626pt>
 File: figures/offline-calc.png Graphic file (type png)
 <use figures/offline-calc.png>
 Package pdftex.def Info: figures/offline-calc.png  used on input line 136.
 (pdftex.def)             Requested size: 191.19958pt x 130.55507pt.
-<figures/request-point.png, id=549, 481.8pt x 171.64125pt>
+<figures/request-point.png, id=547, 481.8pt x 171.64125pt>
 File: figures/request-point.png Graphic file (type png)
 <use figures/request-point.png>
 Package pdftex.def Info: figures/request-point.png  used on input line 146.
@@ -1310,12 +1313,12 @@ l.152
                                                   \fi \fi 
 l.152 
        <./figures/offline-calc.png> <./figures/request-point.png>]
-<figures/progress.png, id=557, 421.575pt x 214.8025pt>
+<figures/progress.png, id=556, 421.575pt x 214.8025pt>
 File: figures/progress.png Graphic file (type png)
 <use figures/progress.png>
 Package pdftex.def Info: figures/progress.png  used on input line 155.
 (pdftex.def)             Requested size: 478.00629pt x 243.55978pt.
-<figures/graph-1.png, id=559, 481.8pt x 306.14375pt>
+<figures/graph-1.png, id=558, 481.8pt x 306.14375pt>
 File: figures/graph-1.png Graphic file (type png)
 <use figures/graph-1.png>
 Package pdftex.def Info: figures/graph-1.png  used on input line 168.
@@ -1331,7 +1334,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
                                                   \fi \fi 
 l.176 
        <./figures/progress.png>]
-<figures/graph-result.png, id=571, 481.8pt x 316.18124pt>
+<figures/graph-result.png, id=569, 481.8pt x 316.18124pt>
 File: figures/graph-result.png Graphic file (type png)
 <use figures/graph-result.png>
 Package pdftex.def Info: figures/graph-result.png  used on input line 185.
@@ -1347,7 +1350,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
                                                   \fi \fi 
 l.191 
        <./figures/graph-1.png>]
-<figures/language-switch.png, id=580, 153.57375pt x 193.72375pt>
+<figures/language-switch.png, id=576, 153.57375pt x 193.72375pt>
 File: figures/language-switch.png Graphic file (type png)
 <use figures/language-switch.png>
 Package pdftex.def Info: figures/language-switch.png  used on input line 195.
@@ -1357,27 +1360,16 @@ fier (name{figure.3.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.4 \begin{enumerate}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{figure.3.13}) has been already used, duplicate ignored
+l.5 	\item
+          [--] СЂРµР°Р»РёР·РѕРІР°РЅР° РёРјРёС‚Р°С†РёРѕРЅРЅР°СЏ РјРѕРґРµР»СЊ ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.13})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.4 \begin{enumerate}
-                      <./figures/graph-result.png> <./figures/language-switch.p
-ng>]
-Underfull \hbox (badness 2005) in paragraph at lines 6--8
-\T2A/cmr/m/n/14.4 мо-де-ли-ро-ва-ния про-цес-са рож-де-ния $\OML/cmm/m/it/14.4 
-Z[]$\T2A/cmr/m/n/14.4 -бозонов в протон-протнных
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 6--8
-\T2A/cmr/m/n/14.4 поз-во-ля-ю-щий быст-ро про-во-дить ими-та-ци-он-ное мо-де-ли
--ро-ва-ние без
- []
-
-) [56]
+l.5 	\item
+          [--] СЂРµР°Р»РёР·РѕРІР°РЅР° РёРјРёС‚Р°С†РёРѕРЅРЅР°СЏ РјРѕРґРµР»СЊ ...
+ <./figures/graph-result.png> <./figures/language-switch.png>]) [56]
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } \IeC {\CYRG }
 \IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 4.
 (src/verify-section.tex
@@ -1389,7 +1381,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 1--2
 [57
 
 ]
-<figures/graph-1-verify.png, id=602, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=598, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
@@ -1399,10 +1391,9 @@ Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.29 РЎ
-       СѓС‰РµСЃС‚РІСѓРµС‚ РјРЅРѕРіРѕ С‚РµРѕСЂРµС‚РёС‡РµСЃРєРёС… РјРѕРґРµР»Рµ...
- <./figures/graph-1-verify.png>]
-<figures/verify-1.png, id=613, 461.725pt x 519.9425pt>
+l.30 
+      <./figures/graph-1-verify.png>]
+<figures/verify-1.png, id=609, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 39.
@@ -1418,7 +1409,7 @@ e.4.2}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.45 
       <./figures/verify-1.png>]
-<figures/verify-2.png, id=625, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=621, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 48.
@@ -1428,15 +1419,14 @@ Package pdftex.def Info: figures/verify-2.png  used on input line 48.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.55 Рћ
-       СЃРЅРѕРІРЅРѕР№ Р·Р°РґР°С‡РµР№ РїСЂРёР»РѕР¶РµРЅРёСЏ СЏРІР»СЏРµС‚СЃСЏ Р...
- <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=639, 178.6675pt x 46.1725pt>
+l.56 
+      <./figures/verify-2.png>]) (src/analysis-of-verification.tex
+<figures/input-empty.png, id=635, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 239.00314pt x 61.76793pt.
-<figures/input-invalid.png, id=641, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=637, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
@@ -1447,31 +1437,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 ворк
  []
 
+<figures/validation-code.png, id=639, 481.8pt x 112.42pt>
+File: figures/validation-code.png Graphic file (type png)
+<use figures/validation-code.png>
+Package pdftex.def Info: figures/validation-code.png  used on input line 25.
+(pdftex.def)             Requested size: 478.00629pt x 111.53801pt.
 [62pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.22 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.5}) has been already used, duplicate ignored
+l.28 \end{figure}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.4.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.22 
-      <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/validation-code.png, id=649, 481.8pt x 112.42pt>
-File: figures/validation-code.png Graphic file (type png)
-<use figures/validation-code.png>
-Package pdftex.def Info: figures/validation-code.png  used on input line 25.
-(pdftex.def)             Requested size: 478.00629pt x 111.53801pt.
-<figures/cache.png, id=651, 481.8pt x 35.13126pt>
+l.28 \end{figure}
+                  <./figures/input-empty.png> <./figures/input-invalid.png>]
+<figures/cache.png, id=647, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
 (pdftex.def)             Requested size: 478.00629pt x 34.8556pt.
- [63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-6}) has been already used, duplicate ignored
+
+[63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1483,7 +1474,7 @@ l.48
                                                   \fi \fi 
 l.48 
       <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=659, 476.78125pt x 233.87375pt>
+<figures/elasti-cache.png, id=655, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
@@ -1505,7 +1496,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 ) [66
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
@@ -1542,7 +1533,7 @@ File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 ) [67
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
@@ -1584,21 +1575,21 @@ Overfull \hbox (92.05193pt too wide) in paragraph at lines 77--78
  []
 
 [71]) [72]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (referat.aux (src/title_referat.aux) (src/introduction.aux)
 (src/general-description.aux) (src/attachment-1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `referat.out' has not changed.
 (rerunfilecheck)             Checksum: 1841535E6DD9009A93FD24CDF6638E04;9582.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 15087 strings out of 492895
- 203222 string characters out of 3137659
+ 15403 strings out of 492895
+ 208555 string characters out of 3137659
  352275 words of memory out of 3000000
- 18450 multiletter control sequences out of 15000+200000
+ 18762 multiletter control sequences out of 15000+200000
  17324 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,40p,3753b,1870s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1621,9 +1612,9 @@ oft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (72 pages, 1218963 bytes).
+Output written on referat.pdf (72 pages, 1216000 bytes).
 PDF statistics:
- 1421 PDF objects out of 1440 (max. 8388607)
+ 1413 PDF objects out of 1440 (max. 8388607)
  269 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 
