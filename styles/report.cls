@@ -404,7 +404,7 @@
 \if@twocolumn
   \setlength\leftmargini  {2em}
 \else
-  \setlength\leftmargini  {2.5em}
+  \setlength\leftmargini  {1.75cm}
 \fi
 \leftmargin  \leftmargini
 \setlength\leftmarginii  {2.2em}
@@ -521,7 +521,7 @@
   \setcounter{chapter}{0}%
   \setcounter{section}{0}%
   \gdef\@chapapp{\appendixname}%
-  \gdef\thechapter{\@Alph\c@chapter}}
+  \gdef\thechaptera{\@Alph\c@chapter}}
 \setlength\arraycolsep{5\p@}
 \setlength\tabcolsep{6\p@}
 \setlength\arrayrulewidth{.4\p@}
@@ -532,10 +532,10 @@
 \setlength\fboxrule{.4\p@}
 \@addtoreset {equation}{chapter}
 \renewcommand\theequation
-  {\ifnum \c@chapter>\z@ \thechapter.\fi \@arabic\c@equation}
+  {\ifnum \c@chapter>\z@ \thechaptera.\fi \@arabic\c@equation}
 \newcounter{figure}[chapter]
 \renewcommand \thefigure
-     {\ifnum \c@chapter>\z@ \thechapter.\fi \@arabic\c@figure}
+     {\ifnum \c@chapter>\z@ \thechaptera.\fi \@arabic\c@figure}
 \def\fps@figure{tbp}
 \def\ftype@figure{1}
 \def\ext@figure{lof}
@@ -548,7 +548,7 @@
                {\end@dblfloat}
 \newcounter{table}[chapter]
 \renewcommand \thetable
-     {\ifnum \c@chapter>\z@ \thechapter.\fi \@arabic\c@table}
+     {\ifnum \c@chapter>\z@ \thechaptera.\fi \@arabic\c@table}
 \def\fps@table{tbp}
 \def\ftype@table{2}
 \def\ext@table{lot}
