@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  20 JUN 2019 14:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.10)  20 JUN 2019 14:31
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1150,7 +1150,7 @@ Underfull \hbox (badness 4013) in paragraph at lines 38--39
  []
 
 ) (src/block-schema.tex
-<figures/ui-schema.png, id=484, 483.8075pt x 465.74pt>
+<figures/ui-schema.png, id=486, 483.8075pt x 465.74pt>
 File: figures/ui-schema.png Graphic file (type png)
 <use figures/ui-schema.png>
 Package pdftex.def Info: figures/ui-schema.png  used on input line 6.
@@ -1172,7 +1172,7 @@ mr/m/it/14.4 Human-Computer
  []
 
 [47]
-<figures/welcome-page.png, id=504, 481.8pt x 190.7125pt>
+<figures/welcome-page.png, id=506, 481.8pt x 190.7125pt>
 File: figures/welcome-page.png Graphic file (type png)
 <use figures/welcome-page.png>
 Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
@@ -1184,7 +1184,7 @@ Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
                                                   \fi \fi 
 l.74 
       <./figures/welcome-page.png>]
-<figures/menu.png, id=511, 255.95625pt x 324.21124pt>
+<figures/menu.png, id=513, 255.95625pt x 324.21124pt>
 File: figures/menu.png Graphic file (type png)
 <use figures/menu.png>
 Package pdftex.def Info: figures/menu.png  used on input line 79.
@@ -1196,7 +1196,7 @@ Package pdftex.def Info: figures/menu.png  used on input line 79.
                                                   \fi \fi 
 l.85 
       <./figures/menu.png>]
-<figures/request-line.png, id=519, 491.8375pt x 141.52875pt>
+<figures/request-line.png, id=521, 491.8375pt x 141.52875pt>
 File: figures/request-line.png Graphic file (type png)
 <use figures/request-line.png>
 Package pdftex.def Info: figures/request-line.png  used on input line 102.
@@ -1208,7 +1208,7 @@ Package pdftex.def Info: figures/request-line.png  used on input line 102.
                                                   \fi \fi 
 l.112 
        <./figures/request-line.png>]
-<figures/preferences.png, id=526, 481.8pt x 98.3675pt>
+<figures/preferences.png, id=528, 481.8pt x 98.3675pt>
 File: figures/preferences.png Graphic file (type png)
 <use figures/preferences.png>
 Package pdftex.def Info: figures/preferences.png  used on input line 125.
@@ -1220,12 +1220,12 @@ Package pdftex.def Info: figures/preferences.png  used on input line 125.
                                                   \fi \fi 
 l.131 
        <./figures/preferences.png>]
-<figures/offline-calc.png, id=533, 186.6975pt x 127.47626pt>
+<figures/offline-calc.png, id=535, 186.6975pt x 127.47626pt>
 File: figures/offline-calc.png Graphic file (type png)
 <use figures/offline-calc.png>
 Package pdftex.def Info: figures/offline-calc.png  used on input line 136.
 (pdftex.def)             Requested size: 187.78531pt x 128.22481pt.
-<figures/request-point.png, id=535, 481.8pt x 171.64125pt>
+<figures/request-point.png, id=537, 481.8pt x 171.64125pt>
 File: figures/request-point.png Graphic file (type png)
 <use figures/request-point.png>
 Package pdftex.def Info: figures/request-point.png  used on input line 146.
@@ -1243,12 +1243,12 @@ l.152
                                                   \fi \fi 
 l.152 
        <./figures/offline-calc.png> <./figures/request-point.png>]
-<figures/progress.png, id=543, 421.575pt x 214.8025pt>
+<figures/progress.png, id=545, 421.575pt x 214.8025pt>
 File: figures/progress.png Graphic file (type png)
 <use figures/progress.png>
 Package pdftex.def Info: figures/progress.png  used on input line 155.
 (pdftex.def)             Requested size: 469.47046pt x 239.21039pt.
-<figures/graph-1.png, id=545, 481.8pt x 306.14375pt>
+<figures/graph-1.png, id=547, 481.8pt x 306.14375pt>
 File: figures/graph-1.png Graphic file (type png)
 <use figures/graph-1.png>
 Package pdftex.def Info: figures/graph-1.png  used on input line 168.
@@ -1265,7 +1265,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 l.175 П
         редставленный на рисунке~\ref{fig:graph-1} г�...
  <./figures/progress.png>]
-<figures/graph-result.png, id=557, 481.8pt x 316.18124pt>
+<figures/graph-result.png, id=559, 481.8pt x 316.18124pt>
 File: figures/graph-result.png Graphic file (type png)
 <use figures/graph-result.png>
 Package pdftex.def Info: figures/graph-result.png  used on input line 185.
@@ -1281,7 +1281,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
                                                   \fi \fi 
 l.191 
        <./figures/graph-1.png>]
-<figures/language-switch.png, id=564, 153.57375pt x 193.72375pt>
+<figures/language-switch.png, id=566, 153.57375pt x 193.72375pt>
 File: figures/language-switch.png Graphic file (type png)
 <use figures/language-switch.png>
 Package pdftex.def Info: figures/language-switch.png  used on input line 195.
@@ -1310,7 +1310,7 @@ Underfull \hbox (badness 1867) in paragraph at lines 1--2
 [57
 
 ]
-<figures/graph-1-verify.png, id=586, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=588, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
@@ -1322,7 +1322,7 @@ Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
                                                   \fi \fi 
 l.30 
       <./figures/graph-1-verify.png>]
-<figures/verify-1.png, id=597, 461.725pt x 519.9425pt>
+<figures/verify-1.png, id=599, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 39.
@@ -1338,7 +1338,7 @@ e.4.2}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.45 
       <./figures/verify-1.png>]
-<figures/verify-2.png, id=609, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=611, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 48.
@@ -1350,12 +1350,12 @@ Package pdftex.def Info: figures/verify-2.png  used on input line 48.
                                                   \fi \fi 
 l.56 
       <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=623, 178.6675pt x 46.1725pt>
+<figures/input-empty.png, id=625, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 234.73523pt x 60.66533pt.
-<figures/input-invalid.png, id=625, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=627, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
@@ -1373,12 +1373,12 @@ l.22
                                                   \fi \fi 
 l.22 
       <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/validation-code.png, id=633, 481.8pt x 112.42pt>
+<figures/validation-code.png, id=635, 481.8pt x 112.42pt>
 File: figures/validation-code.png Graphic file (type png)
 <use figures/validation-code.png>
 Package pdftex.def Info: figures/validation-code.png  used on input line 25.
 (pdftex.def)             Requested size: 469.47046pt x 109.54643pt.
-<figures/cache.png, id=635, 481.8pt x 35.13126pt>
+<figures/cache.png, id=637, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
@@ -1396,7 +1396,7 @@ l.48
                                                   \fi \fi 
 l.48 
       <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=643, 476.78125pt x 233.87375pt>
+<figures/elasti-cache.png, id=645, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
@@ -1502,10 +1502,10 @@ Package rerunfilecheck Info: File `referat.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 15077 strings out of 492895
- 201545 string characters out of 3135320
+ 15079 strings out of 492895
+ 201582 string characters out of 3135320
  353195 words of memory out of 3000000
- 18436 multiletter control sequences out of 15000+200000
+ 18437 multiletter control sequences out of 15000+200000
  17324 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,10n,40p,3753b,1870s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1530,9 +1530,9 @@ oft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Root/Soft/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy7.pfb><D:/Root/Soft/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy8.pfb>
-Output written on referat.pdf (72 pages, 1203551 bytes).
+Output written on referat.pdf (72 pages, 1204090 bytes).
 PDF statistics:
- 1404 PDF objects out of 1440 (max. 8388607)
- 273 named destinations out of 1000 (max. 500000)
+ 1406 PDF objects out of 1440 (max. 8388607)
+ 274 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 
