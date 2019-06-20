@@ -273,8 +273,9 @@
 \newcounter {paragraph}[subsubsection]
 \newcounter {subparagraph}[paragraph]
 \renewcommand \thepart {\@Roman\c@part}
-\renewcommand \thechapter {\@arabic\c@chapter}
-\renewcommand \thesection {\thechapter.\@arabic\c@section}
+\renewcommand \thechapter {ГЛАВА \@arabic\c@chapter}
+\renewcommand \thechaptera {\@arabic\c@chapter}
+\renewcommand \thesection {\thechaptera.\@arabic\c@section}
 \renewcommand\thesubsection   {\thesection.\@arabic\c@subsection}
 \renewcommand\thesubsubsection{\thesubsection .\@arabic\c@subsubsection}
 \renewcommand\theparagraph    {\thesubsubsection.\@arabic\c@paragraph}
@@ -357,7 +358,7 @@
   \vspace*{0\p@}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-       \centering \large\bfseries \@chapapp\space \thechapter
+       \centering \large\bfseries \@chapapp\space \thechaptera
         \par\nobreak
         \vskip 0\p@
     \fi
@@ -612,22 +613,37 @@
          \everypar{\global\@nobreakfalse\everypar{}}%
     \endgroup
   \fi}
-\newcommand*\l@chapter[2]{%
+\newcommand*\l@chapter[2]{% style for table of content chapter
   \ifnum \c@tocdepth >\m@ne
     \addpenalty{-\@highpenalty}%
-    \vskip 1.0em \@plus\p@
-    \setlength\@tempdima{1.5em}%
+    \vskip 0em \@plus\p@
+    \setlength\@tempdima{5.5em}%
     \begingroup
       \parindent \z@ \rightskip \@pnumwidth
       \parfillskip -\@pnumwidth
       \leavevmode \bfseries
-      \advance\leftskip\@tempdima
+      \advance\leftskip 0em
       \hskip -\leftskip
       #1\nobreak\hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
       \penalty\@highpenalty
     \endgroup
   \fi}
-\newcommand*\l@section{\@dottedtocline{1}{1.5em}{2.3em}}
+\renewcommand{\@dottedtoclinea}[5]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 0em \@plus\p@
+    \setlength\@tempdima{5.5em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \bfseries
+      \advance\leftskip 0em
+      \hskip -\leftskip
+      #1\nobreak\hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+\newcommand*\l@section{\@dottedtocline{1}{0em}{1.5em}} % style for table of content section
 \newcommand*\l@subsection{\@dottedtocline{2}{3.8em}{3.2em}}
 \newcommand*\l@subsubsection{\@dottedtocline{3}{7.0em}{4.1em}}
 \newcommand*\l@paragraph{\@dottedtocline{4}{10em}{5em}}
