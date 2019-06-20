@@ -274,7 +274,7 @@
 \newcounter {subparagraph}[paragraph]
 \renewcommand \thepart {\@Roman\c@part}
 \renewcommand \thechapter {ГЛАВА \@arabic\c@chapter}
-\renewcommand \thechaptera {\@arabic\c@chapter}
+\renewcommand \thechaptera {\@arabic\c@chapter} % \thechaptera is a noraml chapter without ГЛАВА
 \renewcommand \thesection {\thechaptera.\@arabic\c@section}
 \renewcommand\thesubsection   {\thesection.\@arabic\c@subsection}
 \renewcommand\thesubsubsection{\thesubsection .\@arabic\c@subsubsection}
