@@ -644,6 +644,7 @@
     \endgroup
   \fi}
 \newcommand*\l@section{\@dottedtocline{1}{0em}{1.5em}} % style for table of content section
+
 \newcommand*\l@subsection{\@dottedtocline{2}{3.8em}{3.2em}}
 \newcommand*\l@subsubsection{\@dottedtocline{3}{7.0em}{4.1em}}
 \newcommand*\l@paragraph{\@dottedtocline{4}{10em}{5em}}
