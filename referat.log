@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  23 JUN 2019 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  23 JUN 2019 21:17
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1028,8 +1028,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 51.
 
 (src/soft-for-dev.tex
-Underfull \hbox (badness 7238) in paragraph at lines 8--9
-[]\T2A/cmr/m/n/14.4 Ўирокое ис-поль-зо-ва-ние платформенно-ориентированного ко-
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 широкое ис-поль-зо-ва-ние платформенно-ориентированного ко-
 да
  []
 
@@ -1441,13 +1441,10 @@ Underfull \hbox (badness 1968) in paragraph at lines 1--2
 -лу-чен-ных от
  []
 
-
-LaTeX Warning: Reference `ada-wwz:2013' on page 57 undefined on input line 9.
-
 [57
 
 ]
-<figures/graph-1-verify.png, id=624, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=625, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
@@ -1459,7 +1456,7 @@ Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
                                                   \fi \fi 
 l.30 
       <./figures/graph-1-verify.png>] [59]
-<figures/verify-1.png, id=641, 461.725pt x 519.9425pt>
+<figures/verify-1.png, id=642, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 43.
@@ -1471,7 +1468,7 @@ Package pdftex.def Info: figures/verify-1.png  used on input line 43.
                                                   \fi \fi 
 l.49 
       <./figures/verify-1.png>]
-<figures/verify-2.png, id=649, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=650, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 52.
@@ -1483,12 +1480,12 @@ Package pdftex.def Info: figures/verify-2.png  used on input line 52.
                                                   \fi \fi 
 l.60 
       <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=663, 178.6675pt x 46.1725pt>
+<figures/input-empty.png, id=664, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 239.00314pt x 61.76793pt.
-<figures/input-invalid.png, id=665, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=666, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
@@ -1499,7 +1496,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 ворк
  []
 
-<figures/validation-code.png, id=667, 481.8pt x 112.42pt>
+<figures/validation-code.png, id=668, 481.8pt x 112.42pt>
 File: figures/validation-code.png Graphic file (type png)
 <use figures/validation-code.png>
 Package pdftex.def Info: figures/validation-code.png  used on input line 25.
@@ -1517,7 +1514,7 @@ ame{figure.4.5}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.28 \end{figure}
                   <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/cache.png, id=675, 481.8pt x 35.13126pt>
+<figures/cache.png, id=676, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
@@ -1536,7 +1533,7 @@ l.48
                                                   \fi \fi 
 l.48 
       <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=683, 476.78125pt x 233.87375pt>
+<figures/elasti-cache.png, id=684, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
@@ -1610,17 +1607,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `referat.out' has not changed.
 (rerunfilecheck)             Checksum: 0DA821CB74AAF3E7DF1756BCDA68F4C2;9923.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 14233 strings out of 492895
- 192105 string characters out of 3137659
+ 14232 strings out of 492895
+ 192091 string characters out of 3137659
  291968 words of memory out of 3000000
- 17664 multiletter control sequences out of 15000+200000
+ 17663 multiletter control sequences out of 15000+200000
  20197 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,12n,32p,3862b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1643,7 +1636,7 @@ oft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (70 pages, 1208407 bytes).
+Output written on referat.pdf (70 pages, 1208358 bytes).
 PDF statistics:
  1298 PDF objects out of 1440 (max. 8388607)
  189 named destinations out of 1000 (max. 500000)
