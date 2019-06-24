@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  23 JUN 2019 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.2)  24 JUN 2019 08:16
 entering extended mode
 **./referat.tex
 (referat.tex
@@ -1143,35 +1143,49 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 67.
 
 (src/imitation-modeling.tex [30]
-<figures/imitation-schema.png, id=395, 481.8pt x 176.66pt>
-File: figures/imitation-schema.png Graphic file (type png)
-<use figures/imitation-schema.png>
-Package pdftex.def Info: figures/imitation-schema.png  used on input line 58.
-(pdftex.def)             Requested size: 478.00629pt x 175.274pt.
+Package epstopdf Info: Source file: <figures/model.eps>
+(epstopdf)                    date: 2019-06-24 08:09:28
+(epstopdf)                    size: 87239 bytes
+(epstopdf)             Output file: <figures/model-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-24 08:11:21
+(epstopdf)                    size: 34092 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/model-eps-converted
+-to.pdf figures/model.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (src/2-1-Zprime.tex [31] [32pdfTeX warning (ext4): destination with the same 
-identifier (name{figure.2.1}) has been already used, duplicate ignored
+pdfTeX warning: pdflatex.exe (file ./figures/model-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/model-eps-converted-to.pdf, id=395, 347.2975pt x 199.74625pt>
+File: figures/model-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/model-eps-converted-to.pdf>
+Package pdftex.def Info: figures/model-eps-converted-to.pdf  used on input line
+ 58.
+(pdftex.def)             Requested size: 239.00314pt x 137.46541pt.
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.12 
-      <./figures/imitation-schema.png>] [33]
-<figures/hep-sm.png, id=424, 436.63126pt x 323.2075pt>
+l.66 П
+       ри построении экспериментальной факт...
+ <./figures/model-eps-converted-to.pdf>]) (src/2-1-Zprime.tex [32] [33]
+<figures/hep-sm.png, id=456, 436.63126pt x 323.2075pt>
 File: figures/hep-sm.png Graphic file (type png)
 <use figures/hep-sm.png>
 Package pdftex.def Info: figures/hep-sm.png  used on input line 29.
 (pdftex.def)             Requested size: 478.00629pt x 353.83775pt.
- [34pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-2}) has been already used, duplicate ignored
+
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.35 
-      <./figures/hep-sm.png>] [35] [36]
-<figures/quirk-antiquirk.jpg, id=441, 423.5825pt x 271.0125pt>
+l.36 К
+       онстанты связи трех взаимодействий ч�...
+ <./figures/hep-sm.png>] [35] [36]
+<figures/quirk-antiquirk.jpg, id=473, 423.5825pt x 271.0125pt>
 File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
 <use figures/quirk-antiquirk.jpg>
 Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 59.
@@ -1181,7 +1195,7 @@ Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 59.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.67 
+l.69 
       <./figures/quirk-antiquirk.jpg>] [38])
 Underfull \hbox (badness 4940) in paragraph at lines 70--70
 []\T2A/cmr/bx/n/14.4 ������� ���-��-��� $\OML/cmm/m/it/14.4 Z[]$\T2A/cmr/bx/n/1
@@ -1276,7 +1290,7 @@ m/m/it/14.4 Z[]$
 \IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } \IeC {\CYRG }
 \IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 3.
 (src/block-schema.tex
-<figures/ui-schema.png, id=531, 483.8075pt x 465.74pt>
+<figures/ui-schema.png, id=563, 483.8075pt x 465.74pt>
 File: figures/ui-schema.png Graphic file (type png)
 <use figures/ui-schema.png>
 Package pdftex.def Info: figures/ui-schema.png  used on input line 6.
@@ -1303,7 +1317,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 6--12
  []
 
 [48]
-<figures/welcome-page.png, id=545, 481.8pt x 190.7125pt>
+<figures/welcome-page.png, id=577, 481.8pt x 190.7125pt>
 File: figures/welcome-page.png Graphic file (type png)
 <use figures/welcome-page.png>
 Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
@@ -1313,7 +1327,7 @@ Package pdftex.def Info: figures/welcome-page.png  used on input line 66.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [49]
-<figures/menu.png, id=553, 255.95625pt x 324.21124pt>
+<figures/menu.png, id=585, 255.95625pt x 324.21124pt>
 File: figures/menu.png Graphic file (type png)
 <use figures/menu.png>
 Package pdftex.def Info: figures/menu.png  used on input line 79.
@@ -1333,7 +1347,7 @@ has been already used, duplicate ignored
 l.88 	\item[--]
                 <<График>> -- страницы с основным г�...
  <./figures/welcome-page.png> <./figures/menu.png>]
-<figures/request-line.png, id=560, 491.8375pt x 141.52875pt>
+<figures/request-line.png, id=592, 491.8375pt x 141.52875pt>
 File: figures/request-line.png Graphic file (type png)
 <use figures/request-line.png>
 Package pdftex.def Info: figures/request-line.png  used on input line 101.
@@ -1345,12 +1359,12 @@ Package pdftex.def Info: figures/request-line.png  used on input line 101.
                                                   \fi \fi 
 l.113 
        <./figures/request-line.png>]
-<figures/preferences.png, id=567, 481.8pt x 98.3675pt>
+<figures/preferences.png, id=599, 481.8pt x 98.3675pt>
 File: figures/preferences.png Graphic file (type png)
 <use figures/preferences.png>
 Package pdftex.def Info: figures/preferences.png  used on input line 120.
 (pdftex.def)             Requested size: 478.00629pt x 97.59573pt.
-<figures/offline-calc.png, id=569, 186.6975pt x 127.47626pt>
+<figures/offline-calc.png, id=601, 186.6975pt x 127.47626pt>
 File: figures/offline-calc.png Graphic file (type png)
 <use figures/offline-calc.png>
 Package pdftex.def Info: figures/offline-calc.png  used on input line 129.
@@ -1368,7 +1382,7 @@ l.135
                                                   \fi \fi 
 l.135 
        <./figures/preferences.png> <./figures/offline-calc.png>]
-<figures/request-point.png, id=577, 481.8pt x 171.64125pt>
+<figures/request-point.png, id=609, 481.8pt x 171.64125pt>
 File: figures/request-point.png Graphic file (type png)
 <use figures/request-point.png>
 Package pdftex.def Info: figures/request-point.png  used on input line 146.
@@ -1380,12 +1394,12 @@ Package pdftex.def Info: figures/request-point.png  used on input line 146.
                                                   \fi \fi 
 l.154 
        <./figures/request-point.png>]
-<figures/progress.png, id=585, 421.575pt x 214.8025pt>
+<figures/progress.png, id=617, 421.575pt x 214.8025pt>
 File: figures/progress.png Graphic file (type png)
 <use figures/progress.png>
 Package pdftex.def Info: figures/progress.png  used on input line 159.
 (pdftex.def)             Requested size: 239.00314pt x 121.77989pt.
-<figures/graph-1.png, id=587, 481.8pt x 306.14375pt>
+<figures/graph-1.png, id=619, 481.8pt x 306.14375pt>
 File: figures/graph-1.png Graphic file (type png)
 <use figures/graph-1.png>
 Package pdftex.def Info: figures/graph-1.png  used on input line 168.
@@ -1403,7 +1417,7 @@ l.174
                                                   \fi \fi 
 l.174 
        <./figures/progress.png> <./figures/graph-1.png>]
-<figures/graph-result.png, id=597, 481.8pt x 316.18124pt>
+<figures/graph-result.png, id=629, 481.8pt x 316.18124pt>
 File: figures/graph-result.png Graphic file (type png)
 <use figures/graph-result.png>
 Package pdftex.def Info: figures/graph-result.png  used on input line 181.
@@ -1415,7 +1429,7 @@ Package pdftex.def Info: figures/graph-result.png  used on input line 181.
                                                   \fi \fi 
 l.189 
        <./figures/graph-result.png>]
-<figures/language-switch.png, id=607, 153.57375pt x 193.72375pt>
+<figures/language-switch.png, id=639, 153.57375pt x 193.72375pt>
 File: figures/language-switch.png Graphic file (type png)
 <use figures/language-switch.png>
 Package pdftex.def Info: figures/language-switch.png  used on input line 194.
@@ -1439,7 +1453,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 1--2
 [57
 
 ]
-<figures/graph-1-verify.png, id=624, 481.8pt x 301.125pt>
+<figures/graph-1-verify.png, id=656, 481.8pt x 301.125pt>
 File: figures/graph-1-verify.png Graphic file (type png)
 <use figures/graph-1-verify.png>
 Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
@@ -1451,7 +1465,7 @@ Package pdftex.def Info: figures/graph-1-verify.png  used on input line 17.
                                                   \fi \fi 
 l.30 
       <./figures/graph-1-verify.png>] [59]
-<figures/verify-1.png, id=641, 461.725pt x 519.9425pt>
+<figures/verify-1.png, id=673, 461.725pt x 519.9425pt>
 File: figures/verify-1.png Graphic file (type png)
 <use figures/verify-1.png>
 Package pdftex.def Info: figures/verify-1.png  used on input line 43.
@@ -1463,7 +1477,7 @@ Package pdftex.def Info: figures/verify-1.png  used on input line 43.
                                                   \fi \fi 
 l.49 
       <./figures/verify-1.png>]
-<figures/verify-2.png, id=649, 461.725pt x 513.92pt>
+<figures/verify-2.png, id=681, 461.725pt x 513.92pt>
 File: figures/verify-2.png Graphic file (type png)
 <use figures/verify-2.png>
 Package pdftex.def Info: figures/verify-2.png  used on input line 52.
@@ -1475,12 +1489,12 @@ Package pdftex.def Info: figures/verify-2.png  used on input line 52.
                                                   \fi \fi 
 l.60 
       <./figures/verify-2.png>]) (src/analysis-of-verification.tex
-<figures/input-empty.png, id=663, 178.6675pt x 46.1725pt>
+<figures/input-empty.png, id=695, 178.6675pt x 46.1725pt>
 File: figures/input-empty.png Graphic file (type png)
 <use figures/input-empty.png>
 Package pdftex.def Info: figures/input-empty.png  used on input line 7.
 (pdftex.def)             Requested size: 239.00314pt x 61.76793pt.
-<figures/input-invalid.png, id=665, 165.61874pt x 67.25125pt>
+<figures/input-invalid.png, id=697, 165.61874pt x 67.25125pt>
 File: figures/input-invalid.png Graphic file (type png)
 <use figures/input-invalid.png>
 Package pdftex.def Info: figures/input-invalid.png  used on input line 16.
@@ -1491,7 +1505,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 ����
  []
 
-<figures/validation-code.png, id=667, 481.8pt x 112.42pt>
+<figures/validation-code.png, id=699, 481.8pt x 112.42pt>
 File: figures/validation-code.png Graphic file (type png)
 <use figures/validation-code.png>
 Package pdftex.def Info: figures/validation-code.png  used on input line 25.
@@ -1509,7 +1523,7 @@ ame{figure.4.5}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.28 \end{figure}
                   <./figures/input-empty.png> <./figures/input-invalid.png>]
-<figures/cache.png, id=675, 481.8pt x 35.13126pt>
+<figures/cache.png, id=707, 481.8pt x 35.13126pt>
 File: figures/cache.png Graphic file (type png)
 <use figures/cache.png>
 Package pdftex.def Info: figures/cache.png  used on input line 38.
@@ -1528,7 +1542,7 @@ l.48
                                                   \fi \fi 
 l.48 
       <./figures/validation-code.png> <./figures/cache.png>]
-<figures/elasti-cache.png, id=683, 476.78125pt x 233.87375pt>
+<figures/elasti-cache.png, id=715, 476.78125pt x 233.87375pt>
 File: figures/elasti-cache.png Graphic file (type png)
 <use figures/elasti-cache.png>
 Package pdftex.def Info: figures/elasti-cache.png  used on input line 51.
@@ -1605,11 +1619,11 @@ Package rerunfilecheck Info: File `referat.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 14231 strings out of 492895
- 192086 string characters out of 3137659
+ 14228 strings out of 492895
+ 192082 string characters out of 3137659
  291968 words of memory out of 3000000
- 17662 multiletter control sequences out of 15000+200000
- 20197 words of font info for 51 fonts, out of 3000000 for 9000
+ 17660 multiletter control sequences out of 15000+200000
+ 18449 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,12n,31p,3862b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lat
@@ -1631,9 +1645,9 @@ oft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Soft/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy6.pfb><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b><D:/Soft/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on referat.pdf (70 pages, 1208154 bytes).
+Output written on referat.pdf (70 pages, 1232509 bytes).
 PDF statistics:
- 1297 PDF objects out of 1440 (max. 8388607)
+ 1329 PDF objects out of 1440 (max. 8388607)
  189 named destinations out of 1000 (max. 500000)
  343 words of extra memory for PDF output out of 10000 (max. 10000000)
 
